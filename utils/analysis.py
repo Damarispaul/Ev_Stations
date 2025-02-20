@@ -204,3 +204,168 @@ def prepare_df(df):
     df['dominant_connector'] = df.apply(get_dominant_connector, axis=1)
 
     return df
+
+
+def analyze_by_state(df):
+    # Group by state
+    state_stats = df.groupby('state').agg({
+        'is_24_7': 'mean',
+        'total_weekly_hours': 'mean',
+        'connector_count': 'mean',
+        'latitude': 'count'
+    }).rename(columns={'latitude': 'station_count'})
+    
+    # Filter states with enough stations
+    state_stats = state_stats[state_stats['station_count'] > 10].sort_values('is_24_7', ascending=False)
+    
+    # Calculate 24/7 percentage
+    state_stats['pct_24_7'] = state_stats['is_24_7'] * 100
+    
+    # Plot 24/7 percentage by state
+    plt.figure(figsize=(14, 6))
+    sns.barplot(x=state_stats.index, y='pct_24_7', data=state_stats, palette='Blues_d')
+    plt.title('Percentage of 24/7 Charging Stations by State')
+    plt.xlabel('State')
+    plt.ylabel('Percentage of 24/7 Stations')
+    plt.xticks(rotation=90)
+    plt.axhline(y=state_stats['pct_24_7'].mean(), color='red', linestyle='--', 
+                label=f'National Average: {state_stats["pct_24_7"].mean():.1f}%')
+    plt.legend()
+    plt.tight_layout()
+    plt.savefig('state_24_7_percentage.png')
+    plt.show()
+    
+    # Create a summary table
+    print("\n----- State-Level Analysis -----")
+    print(state_stats.sort_values('pct_24_7', ascending=False).head(10).to_string())
+    
+    return state_stats
+
+# ----------------
+# 10. Recommendations Generation
+# ----------------
+
+def generate_recommendations(df, state_stats):
+    """
+    Generates data-driven recommendations to improve EV charging station accessibility.
+
+    This function analyzes the dataset to identify areas for improvement, such as:
+    - States with low 24/7 station coverage.
+    - Geographic clusters with poor after-hours access.
+    - Charging networks with limited operational hours.
+    - Stations that operate only on weekdays.
+    - Workplace charging stations with restricted hours.
+
+    Parameters:
+    ----------
+    df : pandas.DataFrame
+        The dataset containing EV charging station details, including location, hours, and network.
+    
+    state_stats : pandas.DataFrame
+        The summary DataFrame with state-level statistics, including the percentage of 24/7 stations.
+
+    Analysis & Recommendations:
+    --------------------------
+    1. **States with Low 24/7 Coverage**:
+        - Identifies states below the median 24/7 coverage.
+        - Suggests where extended operating hours could improve accessibility.
+
+    2. **Geographic Clusters with Poor After-Hours Coverage**:
+        - Uses DBSCAN clustering to find areas with high concentrations of non-24/7 stations.
+        - Suggests target locations for upgrades to 24/7 availability.
+
+    3. **Network-Specific Recommendations**:
+        - Identifies charging networks with the lowest average weekly operational hours.
+        - Suggests which networks should prioritize increasing their hours.
+
+    4. **Weekend vs. Weekday Access Gaps**:
+        - Identifies stations open on weekdays but closed on weekends.
+        - Recommends expanding access to weekends.
+
+    5. **Workplace Charging Improvements**:
+        - Evaluates the percentage of workplace charging stations that operate 24/7.
+        - Suggests businesses extend hours if 24/7 access is low.
+
+    Output:
+    ------
+    - Prints key findings and recommendations.
+    - Highlights states, networks, and locations that would benefit from improved access.
+    
+    Example Usage:
+    --------------
+    generate_recommendations(df, state_analysis)
+
+    """
+    print("\n----- Recommendations -----")
+    
+    # 1. Identify states with low 24/7 coverage
+    low_coverage_states = state_stats[state_stats['pct_24_7'] < state_stats['pct_24_7'].median()]
+    print("States with below-median 24/7 coverage that could benefit from extended hours:")
+    for state, row in low_coverage_states.iterrows():
+        print(f"  - {state}: {row['pct_24_7']:.1f}% 24/7 coverage, {row['station_count']:.0f} stations")
+    
+    # 2. Identify areas with poor after-hours coverage
+    # Filter to stations with coordinates that are not 24/7
+    non_24_7_df = df[(df['is_24_7'] == 0) & df['latitude'].notna() & df['longitude'].notna()]
+    
+    if len(non_24_7_df) > 0:
+        # Find clusters of non-24/7 stations
+        from sklearn.cluster import DBSCAN
+        
+        # Convert lat/long to radians for clustering
+        coords = np.radians(non_24_7_df[['latitude', 'longitude']].values)
+        
+        # Run DBSCAN clustering
+        clustering = DBSCAN(eps=0.05, min_samples=3).fit(coords)
+        
+        # Add cluster labels to dataframe
+        non_24_7_df['cluster'] = clustering.labels_
+        
+        # Calculate cluster statistics
+        cluster_stats = non_24_7_df[non_24_7_df['cluster'] >= 0].groupby('cluster').agg({
+            'latitude': ['count', 'mean'],
+            'longitude': 'mean',
+            'state': lambda x: x.mode()[0] if not x.mode().empty else 'Unknown',
+            'ev_network': lambda x: x.mode()[0] if not x.mode().empty else 'Unknown'
+        })
+        
+        cluster_stats.columns = ['station_count', 'center_lat', 'center_lon', 'main_state', 'main_network']
+        
+        # Sort by station count to find largest clusters
+        cluster_stats = cluster_stats.sort_values('station_count', ascending=False)
+        
+        print("\nLarge clusters of limited-hour stations that could benefit from 24/7 upgrades:")
+        for cluster_id, row in cluster_stats.head(5).iterrows():
+            print(f"  - Cluster in {row['main_state']}: {row['station_count']:.0f} stations, " +
+                  f"primarily on {row['main_network']} network")
+    
+    # 3. Network-specific recommendations
+    network_hours = df.groupby('ev_network').agg({
+        'total_weekly_hours': 'mean',
+        'is_24_7': 'mean',
+        'latitude': 'count'
+    }).rename(columns={'latitude': 'station_count'})
+    
+    network_hours = network_hours[network_hours['station_count'] > 10].sort_values('total_weekly_hours')
+    
+    print("\nNetworks that would benefit most from extended hours:")
+    for network, row in network_hours.head(3).iterrows():
+        print(f"  - {network}: {row['total_weekly_hours']:.1f} avg weekly hours, " +
+              f"{row['is_24_7']*100:.1f}% 24/7 stations")
+    
+    # 4. Weekend vs Weekday gap analysis
+    weekday_only = df[df['weekday_access'] & ~df['weekend_access']].shape[0]
+    weekday_only_pct = weekday_only / len(df) * 100
+    
+    print(f"\nWeekday-only stations: {weekday_only} ({weekday_only_pct:.1f}%)")
+    print("Recommendation: These stations could be targeted for weekend access expansion")
+    
+    # 5. Workplace charging recommendations
+    workplace_df = df[df['ev_workplace_charging'] == True]
+    if len(workplace_df) > 0:
+        workplace_24_7 = workplace_df['is_24_7'].mean() * 100
+        print(f"\nWorkplace charging stations that are 24/7: {workplace_24_7:.1f}%")
+        if workplace_24_7 < 20:
+            print("Recommendation: Encourage businesses to extend access hours for workplace chargers")
+
+
