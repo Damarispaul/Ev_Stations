@@ -3,6 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.neighbors import NearestNeighbors
+from geopy.distance import great_circle
 
 
 
@@ -62,7 +63,7 @@ def prepare_df(df):
     >>> df[['weekday_access', 'weekend_access', 'availability_class', 'area_type']]
     
     """
-    print("Original shape:", df.shape)
+
 
 
 
@@ -157,32 +158,84 @@ def prepare_df(df):
     # 3. Urban/Rural Classification
     # ----------------
 
-    # Extract coordinates for density analysis
+    # Function to convert coordinates to great-circle distance (km)
+    def convert_to_km(coord1, coord2):
+        return great_circle(coord1, coord2).km
+
+    # Load coordinates
     coords = df[['latitude', 'longitude']].dropna().values
 
     if len(coords) > 10:
         # Use nearest neighbors to calculate station density
         n_neighbors = min(6, len(coords))
-        nbrs = NearestNeighbors(n_neighbors=n_neighbors).fit(coords)
-        distances, _ = nbrs.kneighbors(coords)
-        
-        # Average distance to 5 nearest stations (skip the first as it's distance to self)
-        avg_distances = distances[:, 1:].mean(axis=1)
-        
+        nbrs = NearestNeighbors(n_neighbors=n_neighbors, metric='euclidean').fit(coords)
+        distances, indices = nbrs.kneighbors(coords)
+
+        # Convert distances from degrees to kilometers
+        for i in range(len(coords)):
+            for j in range(1, n_neighbors):  # Skip first since it's self-distance
+                distances[i, j] = convert_to_km(coords[i], coords[indices[i, j]])
+
+        # Average distance to 5 nearest stations (excluding self)
+        avg_distances_km = distances[:, 1:].mean(axis=1)
+
         # Create a DataFrame with the distances
         distance_df = pd.DataFrame({
-            'avg_distance': avg_distances
+            'avg_distance_km': avg_distances_km
         }, index=df.dropna(subset=['latitude', 'longitude']).index)
-        
+
         # Join with original dataframe
         df = df.join(distance_df)
-        
+
         # Classify as urban/rural based on median distance
-        median_distance = df['avg_distance'].median()
-        df['area_type'] = df['avg_distance'].apply(
+        median_distance = df['avg_distance_km'].median()
+        df['area_type'] = df['avg_distance_km'].apply(
             lambda x: 'Urban' if pd.notnull(x) and x < median_distance else 
                     'Rural' if pd.notnull(x) else 'Unknown'
         )
+
+
+        # Apply log transformation
+        df['log_avg_distance_km'] = np.log1p(df['avg_distance_km'])
+
+        # Split data into urban and rural
+        urban_distances = df[df['area_type'] == 'Urban']['log_avg_distance_km']
+        rural_distances = df[df['area_type'] == 'Rural']['log_avg_distance_km']
+
+        # Compute means and medians
+        urban_median, urban_mean = urban_distances.median(), urban_distances.mean()
+        rural_median, rural_mean = rural_distances.median(), rural_distances.mean()
+
+        print(f"Urban Median Distance: {urban_median:.2f} km")
+        print(f"Urban Mean Distance: {urban_mean:.2f} km")
+        print(f"Rural Median Distance: {rural_median:.2f} km")
+        print(f"Rural Mean Distance: {rural_mean:.2f} km")
+
+        # Create subplots (vertically arranged)
+        fig, axes = plt.subplots(2, 1, figsize=(8, 10), sharex=False)
+
+        # Urban plot
+        sns.histplot(urban_distances, kde=True, bins=30, color='blue', ax=axes[0])
+        axes[0].axvline(urban_median, color='red', linestyle='dashed', label=f'Median: {urban_median:.2f}')
+        axes[0].axvline(urban_mean, color='green', linestyle='dashed', label=f'Mean: {urban_mean:.2f}')
+        axes[0].set_xlim(urban_distances.min(), urban_distances.max())  # Dynamic x-axis
+        axes[0].set_title("Urban Area Distance Distribution")
+        axes[0].set_xlabel("Log Avg Distance (KM) to Nearest 5 Stations")
+        axes[0].set_ylabel("Density")
+        axes[0].legend()
+
+        # Rural plot
+        sns.histplot(rural_distances, kde=True, bins=30, color='orange', ax=axes[1])
+        axes[1].axvline(rural_median, color='red', linestyle='dashed', label=f'Median: {rural_median:.2f}')
+        axes[1].axvline(rural_mean, color='green', linestyle='dashed', label=f'Mean: {rural_mean:.2f}')
+        axes[1].set_xlim(rural_distances.min(), rural_distances.max())  # Dynamic x-axis
+        axes[1].set_title("Rural Area Distance Distribution")
+        axes[1].set_xlabel("Log Avg Distance (KM) to Nearest 5 Stations")
+        axes[1].set_ylabel("Density")
+        axes[1].legend()
+
+        plt.tight_layout()
+        plt.show()
     else:
         print("Not enough data points for density analysis")
         df['area_type'] = 'Unknown'
@@ -194,14 +247,6 @@ def prepare_df(df):
     # Calculate connector diversity score
     df['connector_count'] = df[connector_cols].sum(axis=1)
     df['connector_diversity'] = df[connector_cols].sum(axis=1) / len(connector_cols)
-
-    # Get dominant connector types by region
-    def get_dominant_connector(row):
-        if not any(row[connector_cols]):
-            return 'None'
-        return connector_cols[np.argmax([row[col] for col in connector_cols])].replace('con_', '')
-
-    df['dominant_connector'] = df.apply(get_dominant_connector, axis=1)
 
     return df
 
