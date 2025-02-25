@@ -1,935 +1,296 @@
 area,name,lat,lng,type,rating,user_ratings_total,vicinity
-CBD,Sokoni Arcade,-1.2864403,36.7452228,shopping_mall,4.0,404.0,Nairobi
-CBD,Yaya Centre,-1.2926914,36.78747630000001,shopping_mall,4.4,16426.0,"Argwings Kodhek Road, Nairobi"
-CBD,Westgate Shopping Mall,-1.2575959,36.8030508,shopping_mall,4.5,15659.0,"18 Mwanzi Road, Nairobi"
-CBD,Galleria Mall,-1.3434791,36.76597539999999,shopping_mall,4.4,15592.0,"Junction of Magadi &, Langata Road, Nairobi"
-CBD,Viking House,-1.2641312,36.80082300000001,shopping_mall,4.5,1014.0,"Waiyaki Way, Nairobi"
-CBD,Josphines African Designs,-1.2999426,36.7907107,shopping_mall,3.8,4.0,"P. O Box No. 7343, Uchumi Hyper, Ngong Road, Nairobi City"
-CBD,Winmer Agribusiness,-1.1701869,36.7980686,shopping_mall,3.9,9.0,"P. O Box No. 1874, Kiambu Turitu, Kiambu"
-CBD,Prime Cycle Services,-1.2795105,36.82403549999999,shopping_mall,5.0,1.0,"PRCF+5HX, New Kereita Building, Ground Floor, Behind Guaca Stationers, Kirinyaga Road, Nairobi"
-CBD,mwannim floors and walls,-1.291753,36.841664,shopping_mall,3.8,44.0,"PR5R+7MV, jogoo road nxt to tna headquaters, Jogoo Road, Nairobi City"
-CBD,Copyrite Furnitures Ltd.,-1.267415,36.8169139,shopping_mall,4.9,62.0,"The Center Point, Parklands Road,, Next to Shell Service Station (Former Engen Petrol Station), Nairobi"
-CBD,Muthurwa Shopping Complex,-1.2874633,36.8379964,shopping_mall,3.3,51.0,"Landies Road, P.O Box No. 46613, Nairobi"
-CBD,Dynapharm Kenya,-1.2857812,36.8190444,shopping_mall,4.2,240.0,"KAI PLAZA House, Tom Mboya Street, Nairobi"
-CBD,Lush Bag International,-1.2829234,36.8253498,shopping_mall,4.0,4.0,"Koone Shopping Mall, Tsavo Road, Nairobi"
-CBD,Chiteris Fashion,-1.3266857,36.78763929999999,shopping_mall,3.4,9.0,"MQFQ+83C, Langata, Langata Road, Opposite Uhuru Gardens, Nairobi, Nairobi"
-CBD,Ukwala house,-1.2847287,36.8320207,shopping_mall,4.3,3.0,"PR8J+4R2, Ukwala Road, Nairobi"
-CBD,Baellery handbags,-1.2931645,36.8222261,shopping_mall,3.6,106.0,MFANGANO TRADE CENTER
-CBD,Pearl Collections Kenya,-1.2838713,36.81853729999999,shopping_mall,3.6,28.0,"Muindi Bingu Street, Market Stalls Building, Ground Floor, Shop No. C 4, Tubman Road, Nairobi City"
-CBD,Recilia Basket,-1.2958578,36.88940499999999,shopping_mall,3.1,9.0,"PV3Q+MQ2, Next To Naivas Supermarket, Nairobi City"
-CBD,Amani Music Instruments Ltd,-1.2815606,36.8164251,shopping_mall,4.0,4.0,"Lower Floor, Anniversary Towers.P. O. Box 20794, Nairobi"
-CBD,Sherrydan collection,-1.2919906,36.8214335,shopping_mall,3.8,4.0,"PR5C+6H3, Nairobi"
-CBD,Drymz Enterprises,-1.2846709,36.8279828,shopping_mall,4.0,2.0,"Sheikh Karume road, Alminara Shopping Mall stall no.9."
-CBD,Sagrama Weavers,-1.2892331,36.7449278,shopping_mall,4.0,26.0,"PP6V+8X3, Kinyanjui Road, Nairobi City"
-CBD,Toprank Shop,-1.2756189,36.828775,shopping_mall,3.7,7.0,"Kibos road manyatta , close to joventure guest house Mwangi Riika Crescent, Nairobi City"
-CBD,Ndwaru Shopping Center,-1.2792833,36.73157740000001,shopping_mall,3.8,296.0,"PPCJ+7JP, Nairobi"
-CBD,JOTICH ENTERPRISES,-1.2919694,36.82164039999999,shopping_mall,4.0,29.0,Nairobi
-CBD,Pinks Mall,-1.2941923,36.8273556,shopping_mall,3.8,42.0,"PR4G+8WH, Workshop Road, Nairobi"
-CBD,Gallant Communications & PR (E.A) Ltd,-1.2858679,36.8207284,shopping_mall,3.0,1.0,"PR7C+M75, Standard Street, Nairobi"
-CBD,Dukamate,-1.2840011,36.8203339,shopping_mall,4.0,1.0,"Muindi Mbingu Street, Nairobi"
-CBD,Ndaragweezy Lounge,-1.2853099,36.8266187,shopping_mall,3.3,3.0,"PR7G+VJH, Nairobi"
-CBD,Timed Enterprises,-1.2869498,36.82843659999999,shopping_mall,3.6,8.0,"Nairobi, Information HSE Uyoma Street, Nairobi City"
-CBD,NEWX head office,-1.284296,36.8210321,shopping_mall,3.6,9.0,"ICEA Building, building 17floor, Banda Street, Nairobi"
-CBD,Kalsi House,-1.2846308,36.827236,shopping_mall,4.3,153.0,"PR8G+4VX, Luthuli Avenue, Nairobi"
-CBD,Burale 254,-1.2842453,36.8279156,shopping_mall,4.3,8.0,"PR8H+853, Luthuli Avenue, Nairobi"
-CBD,Realtime Bookkeeping Accounting Services in Nairobi Kenya,-1.2821775,36.82126509999999,shopping_mall,4.3,4.0,"PR9C+4GC, River Road, Nairobi"
-CBD,Purple Palace,-1.2833798,36.8256302,shopping_mall,5.0,1.0,"PR8G+J7R, Taveta Road, Nairobi"
-CBD,Ivent Concepts Limited,-1.2837768,36.8266359,shopping_mall,5.0,5.0,"Kenneth Matiba Road, Nairobi"
-CBD,Kilimall Offline Shop,-1.2817345,36.8217614,shopping_mall,3.6,985.0,"PR9C+8P2, Nairobi"
-CBD,Bihi Towers,-1.2822771,36.8218727,shopping_mall,4.3,2867.0,"PR9C+3PQ, Moi Avenue, Nairobi"
-CBD,Cratic Enterprises,-1.2818376,36.82525709999999,shopping_mall,4.5,2.0,"Latema Road, Nairobi"
-CBD,Niche Traders,-1.2824151,36.8157973,shopping_mall,2.0,2.0,"PR98+28M, Uhuru Highway, Nairobi"
-CBD,Prosper Win Enterprises,-1.2814951,36.8171733,shopping_mall,4.0,14.0,"Kenya House, 00200, Monrovia Street, Nairobi"
-CBD,Kampus Towers,-1.2801299,36.8188306,shopping_mall,4.2,94.0,"Kampus Towers, 4th Floor University Way, Nairobi"
-CBD,Wanja's Handbags,-1.2955534,36.8088891,shopping_mall,3.3,8.0,"PR35+QHC, Ngong Road, Nairobi"
-CBD,FASAM,-1.2774358,36.8292239,shopping_mall,3.9,49.0,"PRFH+2MH, Ngara Road, Nairobi"
-CBD,AK Creative,-1.3093249,36.8318282,shopping_mall,4.3,4.0,"MRRJ+7PG, Shikunga, Nairobi City"
-CBD,Young Traders Building,-1.2924238,36.8419876,shopping_mall,5.0,1.0,"PR5R+2QQ, Jogoo Road, Nairobi"
-CBD,Mamapoa,-1.3100652,36.8119756,shopping_mall,4.5,2.0,"MRQ6+XQH, Ole-Sangale Link Road, Nairobi"
-CBD,Nunuza Stores Ltd.,-1.268732,36.80950099999999,shopping_mall,3.5,2.0,"48724 TRV Plaza, 58 Muthithi Road, Westlands, Nairobi"
-CBD,LAVISTER ENTERPRISES,-1.3070263,36.8439965,shopping_mall,4.0,2.0,"Zita Rd Homa Bay Road, Nairobi City"
-CBD,Kidosho Apparel,-1.2931789,36.7918901,shopping_mall,4.6,62.0,"Hurlingham Court, Chaka court House, 7 Argwings Kodhek Road"
-CBD,CJ Co Designs,-1.2929006,36.7915042,shopping_mall,4.3,11.0,"PQ4R+RJJ, Argwings Kodhek Road, Nairobi"
-CBD,African Fabric And Designs Kenya Ltd.,-1.294248,36.7911309,shopping_mall,4.3,112.0,"Marcus Garvey Road, Nairobi"
-CBD,Khushbu Plaza & Residency,-1.2613365,36.8167755,shopping_mall,,,"PRQ8+FP6, Second Parklands Avenue, Nairobi"
-CBD,Tiiga -Living your dreams,-1.3191292,36.84129110000001,shopping_mall,3.4,5.0,"La Enzi Plaza,Second Floor, Plainsview Road, Next to Sanasana, Nairobi"
-CBD,Barclays house,-1.2739541,36.84979579999999,shopping_mall,4.0,4.0,"PRGX+CW7, Sixth Street, Nairobi"
-CBD,The Alchemist,-1.2625724,36.8039327,shopping_mall,4.3,6005.0,"Parklands Road, Nairobi"
-CBD,Adlife Plaza,-1.2946944,36.7872416,shopping_mall,4.3,5167.0,"Ring Road & Junction Chania Avenue, Nairobi"
-CBD,Tala Garments Co,-1.321597,36.802441,shopping_mall,,,"Nairobi West LANGATA LANGATA SHOPPING CENTRE, Nairobi"
-CBD,Freedom Heights Mall,-1.3223411,36.80226030000001,shopping_mall,4.4,1675.0,"Langata Road, Nairobi"
-CBD,Sarit,-1.2611605,36.80197769999999,shopping_mall,4.5,19870.0,"Sarit Centre, Lower Kabete Road, Nairobi"
-CBD,Parking Parkside Towers,-1.3249253,36.84864929999999,parking,4.3,19.0,"MRGX+2FC, Mombasa Road, Nairobi"
-CBD,USIU ICT Center Parking Lot,-1.2184508,36.87885909999999,parking,4.6,27.0,"QVJH+JG9, Nairobi"
-CBD,University of Nairobi Parking,-1.2777789,36.8117094,parking,4.3,7.0,"PRC6+VMP, Nairobi"
-CBD,BTV Productions,-1.2850526,36.82467119999999,parking,,,"3950-00100nairobi mwalimu cooperative house 1st floor, Nairobi City"
-CBD,St. Andrews PCEA Parking,-1.2822785,36.81387129999999,parking,4.2,298.0,"PR97+3GQ, Nyerere Road, Nairobi City"
-CBD,Shade Systems (EA) Ltd,-1.304656,36.818168,parking,3.4,29.0,"Upperhill, Kiambere Road, Hse No 26. Opposite Kiambere Flats., Nairobi City"
-CBD,Engine Planet Limited,-1.2740821,36.8195135,parking,4.0,4.0,"Ngara Road, Nairobi"
-CBD,"Parking Lot, Strathmore University",-1.3107175,36.8151017,parking,3.7,3.0,"MRQ8+P29, Nairobi"
-CBD,SafeZone Auto Care Ltd,-1.3015963,36.8413151,parking,4.4,14.0,"MRXR+9G8, Off Enterprise Road, Changamwe Road, Nairobi"
-CBD,Palm Motors Ltd,-1.3018367,36.8440833,parking,4.3,18.0,"MRXV+7J8, Industrial Area, Off Enterprise Road, Dakar Road, Nairobi"
-CBD,Cruz Control Center Ltd,-1.301883,36.84459499999999,parking,4.4,14.0,"Dakar Road, Nairobi"
-CBD,Auto Powerline Motors,-1.303672,36.8472596,parking,5.0,1.0,"MRWW+GWJ, Inside Wyco Paints Building, Off Enterprise Road, City Square, Gil Gil Road, Nairobi"
-CBD,Indho Adde Garage,-1.2887101,36.852987,parking,4.1,75.0,"PV63+C6F, FIrst Avenue, Nairobi"
-CBD,gigiri shopping centre parking,-1.2376659,36.810554,parking,3.9,14.0,"QR66+W6M, United Nations Avenue, Nairobi City"
-CBD,Joscob Motors Converters,-1.3200928,36.8715317,parking,3.0,3.0,"Falcon Road, Nairobi"
-CBD,LKB Parking,-1.218448,36.87887799999999,parking,5.0,2.0,"1°13'06.4""S 36°52'44.0""E"
-CBD,Dial A Mech,-1.1927857,36.776765,parking,3.9,9.0,"RQ4G+VPJ, Grouond Floor, Banana Raini Road, Muchatha"
-CBD,Kenyatta University Health Unit Parking lot,-1.1833078,36.9300458,parking,3.9,10.0,"RW8J+M2F, Nairobi"
-CBD,Arts Complex Parking Lot,-1.1784527,36.9297534,parking,4.1,222.0,"RWCH+JW6, Nairobi"
-CBD,School of Education Parking Lot,-1.1798339,36.9338206,parking,4.8,4.0,"RWCM+4GH, Nairobi"
-CBD,Chemistry Department Parking Lot,-1.1789558,36.9331333,parking,5.0,1.0,"RWCM+C76, Chancellor's Road, Nairobi"
-CBD,Kenyatta University Bookshop Parking Lot,-1.1800443,36.93517130000001,parking,3.0,3.0,"RW9P+X3M, Kenya Drive, Nairobi City"
-CBD,Chastar Arcade,-1.4520015,36.9781116,parking,4.0,15.0,"Off Athi River Road, Athi River"
-CBD,Wohr Parking,-1.3055653,36.8361628,parking,,,"Dar Es Salaam Road, Nairobi"
-CBD,Intercontinental Car Park,-1.2874485,36.8191626,parking,4.2,17.0,"PR79+2MF, Parliament Road, Nairobi City"
-CBD,KeMU Parking Garage,-1.2821123,36.81603309999999,parking,,,"PR98+5C3, Utalii Lane, Nairobi City"
-CBD,KAPS Parking Yaya Center,-1.2930736,36.7874227,parking,4.5,2.0,"PQ4P+QXF, Ring Road Kilimani, Nairobi"
-CBD,Nakuri,-1.2920659,36.82194619999999,parking,,,"PR5C+5QG, Nairobi"
-CBD,Ena coach cbd nrb,-1.2920659,36.82194619999999,parking,,,"PR5C+5QG, Nairobi"
-CBD,Medici secure,-1.2920659,36.82194619999999,parking,,,"PR5C+5QG, Nairobi"
-CBD,Shell And Agip car park,-1.2907817,36.8225697,parking,,,"PR5F+M2P, Nairobi City"
-CBD,"Renco Car Dentity Co Ltd,",-1.290948,36.820925,parking,,,"Nairobi Central Country Rd, off Parliament Road, Nairobi"
-CBD,Parliament parking lot,-1.2907488,36.821144,parking,4.0,3.0,"PR5C+PF2, Nairobi"
-CBD,Chinese Super Garage,-1.291079,36.823333,parking,,,"Argwings Kodhek Road, Nairobi"
-CBD,Neno church parking lot,-1.2935539,36.8208098,parking,5.0,2.0,"PR4C+H8F, Haile Selassie Avenue, Nairobi City"
-CBD,Parking,-1.2920286,36.8245304,parking,4.5,2.0,"PR5F+5RJ, Pate Bay Road, Nairobi"
-CBD,Railways Club car park,-1.2927043,36.8189782,parking,4.7,3.0,"PR49+WH9, Haile Selassie Avenue, Nairobi City"
-CBD,KICC Car Park,-1.2888178,36.8210643,parking,4.2,27.0,Nairobi
-CBD,NCC Parking,-1.2892461,36.8244386,parking,3.7,3.0,"13, Nairobi"
-CBD,Government parking,-1.2884407,36.8242595,parking,,,"13, Nairobi"
-CBD,Holy Family Basilica Parking,-1.2878473,36.81994929999999,parking,4.5,402.0,Kenya
-CBD,Parking lot,-1.2873975,36.8197548,parking,4.5,2.0,"Cathedral Basilica of the Holy Family, Koinange Street, Nairobi"
-CBD,Taifa Road Parking_B,-1.2879587,36.82519559999999,parking,4.2,474.0,"PR6G+R38, Aga Khan Walk, Nairobi"
-CBD,Car Park Casino,-1.2873475,36.81941140000001,parking,,,"PR79+3Q7, Off Parliament Road, Kaunda Street, Nairobi"
-CBD,Nairobi Law Courts Parking,-1.2869524,36.823664,parking,4.5,50.0,"PR7F+6F7, Taifa Road, Nairobi"
-CBD,Koinange Parking,-1.2871133,36.8242863,parking,3.4,11.0,"PR7F+5P3, Taifa Road, Nairobi City"
-CBD,City Hall Annex Basement,-1.2864891,36.82108979999999,parking,3.8,12.0,"PR7C+CC4, Mama Ngina Street, Nairobi"
-CBD,Holy Family Minor Basillica Car Park,-1.2865556,36.8205714,parking,4.7,59.0,"PR7C+96G, Kaunda Street, Nairobi"
-CBD,Dolland Car Park,-1.2874529,36.8185402,parking,1.0,2.0,"PR79+2C7, Nairobi"
-CBD,Travel House,-1.2862528,36.8214096,parking,4.3,6.0,"PR7C+FHV, Opposite City Hall Annexe, Muindi Mbingu Street, Nairobi"
-CBD,Parking Bay,-1.2862307,36.8213918,parking,3.0,2.0,"PR7C+GH2, Nairobi"
-CBD,Nyayo House Car Parking,-1.2873916,36.818231,parking,3.5,11.0,"PR79+27X, Nairobi"
-CBD,Leopard beach resort parking lot,-1.2933372,36.81604919999999,parking,,,"PR48+MC7, Haile Selassie Avenue, Nairobi"
-CBD,Taifa Road Parking A,-1.2864541,36.8244386,parking,4.3,60.0,"PR7F+CQ8, Nairobi"
-CBD,KAPS Parking Trans National Plaza,-1.2858792,36.82300749999999,parking,2.0,2.0,"PR7F+J6R, Mama Ngina Street, Nairobi"
-CBD,Kencom House Basement Parking,-1.286363,36.8248768,parking,4.2,5.0,"PR7F+FX2, Nkrumah Avenue, Nairobi"
-CBD,Rongai Bus Stop,-1.2897573,36.82800450000001,parking,,,"PR6H+36R, Nairobi"
-CBD,Fedha Towers Car Park,-1.2855312,36.8213546,parking,,,"PR7C+QGQ, Standard Street, Nairobi"
-CBD,University Parkig,-1.288741,36.8279287,parking,,,"PR6H+G53, Haile Selassie Avenue, Nairobi"
-CBD,The Garden of Eat'n Nairobi,-1.2983491,36.8186088,parking,4.3,13.0,"Upper Hill Road, Nairobi"
-CBD,Oilibya Bunyala Road,-1.2992871,36.8266996,gas_station,4.0,156.0,"Bunyala Service Station Ltd, Bunyala Road, Nairobi's Industrial Area, P. O Box No. 50480, Nairobi"
-CBD,Sean Garstin Motors,-1.2803633,36.7691177,gas_station,4.5,44.0,"James Gichuru Road, Nairobi"
-CBD,OLA Energy Waiyaki Way Service Station,-1.2593449,36.7799091,gas_station,4.1,295.0,"Waiyaki Way, Nairobi"
-CBD,Rubis Waiyaki Way Service Station,-1.260746,36.72330599999999,gas_station,3.8,17.0,"Waiyaki Way, Kabete"
-CBD,Rubis Service Station - Gigiri,-1.2389654,36.8116136,gas_station,3.7,31.0,"Limuru Road, Nairobi"
-CBD,Oilibya Ronald Ngala,-1.284429,36.830857,gas_station,3.6,272.0,"Nairobi Salama Ltd, Ronald Ngala Street, P. O Box No. 64900, Nairobi"
-CBD,Ola Energy Westlands Service Station,-1.263829,36.803099,gas_station,4.2,747.0,"Optimum Fuels, Ring Road Westlands, P. O Box No. 64900, Nairobi"
-CBD,Accenture Gas,-1.2963123,36.8177618,gas_station,,,"PR39+F4C, Lower Duplex Apartments, Lower Hill Road, Upper Hill Road, Nairobi City"
-CBD,G-gas shop,-1.2774053,36.89361089999999,gas_station,5.0,2.0,"Moi Dr, Umoja 1, Next to Coca Cola Depot, Nairobi"
-CBD,Ola Energy Buruburu Service Station,-1.2786102,36.8780297,gas_station,4.1,324.0,"Josco Limited, Off Mumias South Road, Nairobi"
-CBD,Mephis Kenya Limited,-1.2844693,36.82305249999999,gas_station,,,"PR8F+667, Standard Street, Nairobi"
-CBD,Shell,-1.3034954,36.8284943,gas_station,4.1,186.0,"MRWH+M6G, Lusaka Road CMC motors, Nairobi"
-CBD,Simkel Traders,-1.3087666,36.8605471,gas_station,,,"Kenya and lunga lunga square, Lunga Lunga Road, Nairobi"
-CBD,Kobil Machakos Country Bus,-1.2854959,36.83764600000001,gas_station,3.8,227.0,"Pumwani Road, Nairobi"
-CBD,OLA Energy Belle Vue,-1.319465,36.83719800000001,gas_station,4.2,237.0,"Meezan Enterprises, Next To Belle Vue, Off Mombasa Road, P. O Box No. 64900, Nairobi"
-CBD,LB Energy,-1.2851351,36.8218929,gas_station,,,"PR7C+WQR, Standard Street, Nairobi"
-CBD,Dense Gas Logistics & Kerosene,-1.2299237,36.8775254,gas_station,,,"QVCH+22J, Near Sports Vew Hotel Junction, Kasarani, Nairobi City"
-CBD,Oilibya Pangani,-1.268059,36.83374379999999,gas_station,4.1,257.0,"Josco Limited, Murang'a Road, P. O Box No. 1921, Nairobi"
-CBD,Oilibya Tom Mboya,-1.2827696,36.8248861,gas_station,3.5,8.0,"Mabees Limited, Tom Mboya Street, P. O Box No. 64900, Nairobi"
-CBD,Kahangara Education Foundation,-1.2156509,36.9027194,gas_station,5.0,3.0,"Nairobi Building;Las vegas Petroleum Kasarani Mwiki road, Nairobi City"
-CBD,Wild Beest Safaris,-1.2833023,36.88022489999999,gas_station,4.0,1.0,"PV8J+M3H, Mumias South Road, Nairobi"
-CBD,Rubis Kahawa West Service Station,-1.1836743,36.901123,gas_station,4.2,69.0,"Colimor Lane, Kahawa West"
-CBD,MBACHUMA ENTERPRISES,-1.2920018,36.8230766,gas_station,,,"Valencia Hotel Haile Sellasie Road, Nairobi City"
-CBD,National Oil Corporation-Times,-1.290835,36.823685,gas_station,3.1,7.0,"AGIP house, Haile Selassie Avenue, Nairobi"
-CBD,Spa Solutions Limited- Supplies Spa Products,-1.2853201,36.81979869999999,gas_station,4.7,3.0,"PR79+VWF, Kenyatta Avenue, Nairobi"
-CBD,Capital Scape Limited,-1.2846515,36.8198246,gas_station,,,"PR89+4WP, Koinange Street, Nairobi"
-CBD,National Oil Corporation-Makutano,-1.2799994,36.824801,gas_station,4.0,34.0,"Kirinyaga Mahoya House, Kirinyaga Road, Nairobi"
-CBD,Rubis Jogoo Road 1 Service Station,-1.2928348,36.8467439,gas_station,4.0,167.0,"Jogoo Road, Nairobi"
-CBD,National Oil Corporation-Njiru,-1.268469,36.832678,gas_station,4.2,70.0,Nairobi
-CBD,United Energy Jogoo Road Service Station,-1.293965,36.848862,gas_station,4.0,191.0,"PR4X+CG9, Jogoo Road, Nairobi"
-CBD,Modern Coast Workshop Nairobi,-1.302005,36.8500783,gas_station,3.7,73.0,"along Opposite Scania E.A Ltd,, MVX2+52W, Kitui Road, Nairobi"
-CBD,Petrol Station,-1.2881701,36.8518864,gas_station,4.5,13.0,"PV62+PQJ, Nairobi"
-CBD,National Oil Ngong Road Service Station,-1.2998241,36.7923123,gas_station,4.0,34.0,"Ngong Road, North"
-CBD,National Oil Corporation-South C,-1.324882,36.83209099999999,gas_station,4.1,19.0,"Red Cross Road, Nairobi"
-CBD,Makkah Estate,-1.3279816,36.82892450000001,gas_station,4.4,5.0,"Bab Makkah, Karanja Road, Nairobi"
-CBD,Co-op Kwa Jirani West End Petroleum Limited,-1.3126,36.78649999999999,gas_station,,,"Kibera, Mavoko, Nairobi"
-CBD,Kobil Valley Arcade,-1.290042,36.769891,gas_station,4.4,17.0,"Gitanga Road, Kilimani"
-CBD,Arc Energy Investments Limited.,-1.3060905,36.8731176,gas_station,5.0,1.0,"MVVF+H69, Nanyuki Road, Nairobi"
-CBD,Kenol Buruburu Mesora,-1.279034,36.877686,gas_station,4.0,52.0,"Mumias South Road, Nairobi"
-CBD,Shell,-1.2499062,36.8612706,gas_station,4.2,157.0,"Thika Road, Nairobi"
-CBD,TotalEnergies Dagoretti Corner service station,-1.298973,36.75978180000001,gas_station,4.1,746.0,"PQ25+9VP, Ngong Road, Nairobi"
-CBD,Oilibya - Outer Ring Rd,-1.2471689,36.8723226,gas_station,3.6,5.0,"Upper Savanna, Outer Ring Road, East"
-CBD,Co-op Kwa Jirani Sango Filling Station,-1.266,36.8858,gas_station,3.0,2.0,"Kwanza - Kapenguria Rd, Trans Nzoia"
-CBD,OLA Energy Service Station,-1.342642,36.764459,gas_station,4.3,220.0,"MQ47+WQW, Langata Road, Nairobi"
-CBD,Airtel Money Agent-Dandora Petrol Station,-1.2545077,36.88935169999999,gas_station,,,"Korogocho / Dandora foot Bridge, Nairobi"
-CBD,Rubis Langata Service Station,-1.342468,36.762249,gas_station,3.9,54.0,"Langata Road, Langata"
-CBD,National Oil Corporation-Embakasi,-1.3215428,36.8990449,gas_station,3.8,358.0,"Outer Ring Road, Nairobi"
-CBD,Rubis Thome,-1.2102992,36.87525449999999,gas_station,4.2,616.0,"Northern Bypass Road, Nairobi"
-CBD,National Oil Corporation-Muchatha,-1.1931753,36.7777237,gas_station,3.9,65.0,"Banana Raini Road, Kiambu"
-CBD,G-gas shop,-1.328819,36.71817899999999,gas_station,3.7,3.0,"Karen Plains Arcade, Karen Plains Road, Nairobi"
-CBD,OLA Energy Service Station,-1.3896088,36.767296,gas_station,4.0,290.0,"Magadi Road, Ongata Rongai"
-CBD,Tosha Petrol Station,-1.3910115,36.7668273,gas_station,4.1,76.0,"JQ58+HPW, Nairobi"
-CBD,Shell,-1.2606161,36.7099587,gas_station,4.2,113.0,"Waiyaki Way, Rungiri"
-CBD,Petrocity Karen Station,-1.3225495,36.7070667,gas_station,4.3,105.0,"At Karen Round About, Ngong Road, Nairobi"
-CBD,National Oil Corporation-Kiambu,-1.173368,36.831702,gas_station,3.7,3.0,"Road, Kiambu"
-CBD,Rubis Rongai 1,-1.3962695,36.7621798,gas_station,3.8,56.0,"Magadi Road, Ongata Rongai"
-CBD,Astrol Petrol Station-Utawala,-1.2904765,36.947227,gas_station,4.1,592.0,"Utawala Complex, Eastern Bypass, East"
-CBD,TotalEnergies Uthiru 87 service station,-1.2574268,36.70068979999999,gas_station,4.1,570.0,Rungiri
-CBD,National Oil Corporation-Midrand,-1.2551459,36.6940738,gas_station,4.4,21.0,"Waiyaki Way, Rungiri"
-CBD,Midax Petrol Station,-1.2503868,36.9524261,gas_station,4.0,158.0,Nairobi
-CBD,Kenya Polytechnic Bus Stop,-1.292001,36.822352,bus_station,5.0,1.0,Kenya
-CBD,Machakos Bus Station Self Help Group,-1.2907951,36.8216336,bus_station,3.0,4.0,"Embassy House, 1st Floor, Harambee Avenue"
-CBD,Agip,-1.2910619,36.8234856,bus_station,4.6,7.0,"Haile Selassie Avenue, Nairobi"
-CBD,Times Tower,-1.2910008,36.8238115,bus_station,4.0,1.0,Kenya
-CBD,Makaburini,-1.2976795,36.8231195,bus_station,,,Kenya
-CBD,Railways,-1.2896651,36.8272608,bus_station,3.0,1.0,Kenya
-CBD,Railways Bus Station,-1.290884,36.828242,bus_station,3.4,16.0,Nairobi
-CBD,Makaburini,-1.2985378,36.8236023,bus_station,5.0,1.0,Kenya
-CBD,I&M,-1.2850747,36.8203434,bus_station,,,Kenya
-CBD,ICEA,-1.2845275,36.8214592,bus_station,,,Kenya
-CBD,Terminal Tusker,-1.285912,36.82745600000001,bus_station,,,Kenya
-CBD,Bus Station,-1.2872243,36.82890769999999,bus_station,3.9,24.0,Kenya
-CBD,Tusker/Ronald Ngala,-1.2858111,36.8277115,bus_station,5.0,3.0,Kenya
-CBD,Bus Station,-1.2873477,36.829074,bus_station,3.0,2.0,Kenya
-CBD,Bus station,-1.2872028,36.82900430000001,bus_station,3.8,5.0,Kenya
-CBD,Bus Station,-1.2865508,36.8287156,bus_station,4.2,103.0,"Munaku Lane, Off Temple Rd, Temple Road, Nairobi"
-CBD,Community,-1.2920415,36.81309609999999,bus_station,5.0,1.0,Kenya
-CBD,NHIF,-1.294992,36.8133482,bus_station,1.0,1.0,Kenya
-CBD,Bus station,-1.2871814,36.8294764,bus_station,4.0,2.0,Kenya
-CBD,Bus Terminal,-1.2869722,36.8294012,bus_station,4.4,10.0,Kenya
-CBD,Tusker/Ronald Ngala,-1.2855345,36.8282694,bus_station,5.0,1.0,Kenya
-CBD,Terminal Tusker,-1.285521,36.828269,bus_station,,,Kenya
-CBD,Bus Station,-1.286348,36.829349,bus_station,4.3,3.0,Kenya
-CBD,Odeon,-1.2829718,36.82432379999999,bus_station,2.8,6.0,Kenya
-CBD,NTSA,-1.3013434,36.8198204,bus_station,3.0,5.0,Kenya
-CBD,Bus station,-1.2865448,36.8296087,bus_station,3.9,15.0,Kenya
-CBD,TSC,-1.2995195,36.8157005,bus_station,,,Kenya
-CBD,Bus Station,-1.2871867,36.8302596,bus_station,3.0,1.0,Kenya
-CBD,Tusker/Ronald Ngala,-1.2852502,36.8288219,bus_station,5.0,1.0,Kenya
-CBD,Odeon,-1.2828308,36.824922,bus_station,3.6,13.0,Kenya
-CBD,25A Terminal,-1.282686,36.8245357,bus_station,5.0,1.0,Kenya
-CBD,Odeon Terminal,-1.2824687,36.8238196,bus_station,3.8,10.0,Kenya
-CBD,odeon,-1.282757,36.825048,bus_station,4.3,56.0,Nairobi
-CBD,Racecourse Road,-1.2860173,36.8296748,bus_station,5.0,1.0,Kenya
-CBD,Town Terminal,-1.284149,36.827805,bus_station,3.8,4.0,Kenya
-CBD,Britam,-1.2980443,36.8136218,bus_station,,,Kenya
-CBD,Nation Building Terminal/Old NAtion Hse,-1.281633,36.822361,bus_station,4.0,8.0,Kenya
-CBD,Crown Bus Station,-1.2819246,36.8246001,bus_station,3.2,5.0,"Lagos Road, Nairobi"
-CBD,Raddison,-1.3016653,36.8171811,bus_station,,,Kenya
-CBD,Chania Transport Company Station,-1.2848323,36.8297584,bus_station,3.6,5.0,"Ronald Ngala Street, Nairobi"
-CBD,Koja,-1.28127,36.822572,bus_station,4.1,123.0,Nairobi
-CBD,Kaka Terminal,-1.285635,36.830776,bus_station,1.0,1.0,Kenya
-CBD,Koja,-1.2811265,36.8227574,bus_station,,,Kenya
-CBD,tea room,-1.2821847,36.82750860000001,bus_station,3.9,125.0,Nairobi
-CBD,O.T.C,-1.285159,36.8309918,bus_station,4.0,118.0,"Landhies Road, Nairobi"
-CBD,Salvation Army/Tusker,-1.2852599,36.8310948,bus_station,,,Kenya
-CBD,OTC,-1.284877,36.831024,bus_station,,,Kenya
-CBD,Meladen,-1.2964189,36.81105489999999,bus_station,,,Kenya
-CBD,University of Nairobi,-1.2811318,36.8167224,bus_station,,,Kenya
-CBD,OTC,-1.284054,36.831179,bus_station,3.6,34.0,Kenya
-CBD,University of Nairobi,-1.2811747,36.8160304,bus_station,4.0,1.0,Kenya
-CBD,Main Campus/University Way,-1.280964,36.8163711,bus_station,5.0,1.0,Kenya
-CBD,Main Campus/University Way/Koinange,-1.280964,36.8163657,bus_station,,,Kenya
-CBD,Toyota,-1.3039291,36.8261558,bus_station,5.0,1.0,Kenya
-CBD,Java,-1.2987953,36.8110576,bus_station,,,Kenya
-CBD,Java,-1.298967,36.8108377,bus_station,,,Kenya
-CBD,Muthurwa,-1.2864572,36.8343794,bus_station,,,Kenya
-CBD,Geomaps,-1.3030547,36.8134206,bus_station,,,Kenya
-CBD,Machakos Road,-1.3022768,36.8313539,bus_station,4.0,1.0,Kenya
-CBD,Equity Centre,-1.3024861,36.8122083,bus_station,,,Kenya
-CBD,Nairobi,-1.2920659,36.8219462,Highway_intersection,,,Nairobi
-CBD,Sarova Stanley Nairobi - 5 Star Hotel,-1.2842084,36.8228685,Highway_intersection,4.6,8914.0,"Junction Of Kenyatta Avenue and, Kimathi Street, Nairobi"
-CBD,Nairobi Apartments,-1.2920659,36.82194619999999,Highway_intersection,4.2,106.0,"Mokhtar Nairobi KE, Dahha Street, Nairobi"
-CBD,Laico Regency,-1.2849312,36.81649889999999,Highway_intersection,4.2,3201.0,"Nairobi Central Loita St, Uhuru Highway, Nairobi"
-CBD,Hotel Central Park & Conference Center,-1.2849975,36.8277109,Highway_intersection,4.0,1825.0,Sheikh Karume Rd
-CBD,Hillpark Hotel,-1.3002043,36.82041539999999,Highway_intersection,4.3,2037.0,"Lower Hill Road, Nairobi"
-CBD,680 Hotel,-1.2855361,36.8206643,Highway_intersection,4.1,1627.0,"Muindi Mbingu Street, Nairobi"
-CBD,Oakwood Hotel,-1.2841033,36.823441,Highway_intersection,3.9,110.0,"Elite Hse, Starehe"
-CBD,Nairobi Serena Hotel,-1.2870297,36.8145232,Highway_intersection,4.7,5731.0,"Kenyatta Avenue, Nairobi"
-CBD,Ambassadeur Hotel,-1.2855752,36.8260672,Highway_intersection,4.1,3897.0,"PR7G+QC3, Moi Avenue, Nairobi"
-CBD,Kenya Airways,-1.2847831,36.8178624,Highway_intersection,3.9,232.0,"Barclays Plaza, 11 th Floor"
-CBD,Laury-Ntines Salon,-1.287414,36.82478800000001,Highway_intersection,,,"Reinsurance Plaza, Aga Khan Walk, Nairobi"
-CBD,Classic Movie House,-1.2872829,36.8283892,Highway_intersection,,,"PR7H+39J, Nairobi CBD, Mfangano Street, Nairobi City"
-CBD,Mumbu Holding,-1.2847546,36.8245282,Highway_intersection,4.0,2.0,"Norwich Union House, Off Kimathi Lane, Nairobi"
-CBD,GeoMara @ West Heights Junction Mall,-1.2920659,36.82194619999999,Highway_intersection,,,Mararo Avenue West Heights B26 9th floor
-CBD,Telecommunications Solution Centre,-1.2841727,36.82376579999999,Highway_intersection,3.5,8.0,"Old Mutual Building, Kimathi Kimathi Street, Nairobi"
-CBD,Paris Hotel,-1.286387,36.827732,Highway_intersection,4.0,504.0,"Mfangano Street, Nairobi"
-CBD,GLORIOUS HOTELS/RESTAURANTS DESTINATION,-1.286695,36.816937,Highway_intersection,,,"27502-00100, Kenya"
-CBD,Arkland hotel * YOHOH,-1.2867322,36.8270136,Highway_intersection,,,"Roland Ngala Junction, Nairobi"
-CBD,Nairobi Central,-1.2800161,36.8191878,Highway_intersection,,,Nairobi Central
-CBD,Sunway Hotel,-1.2847987,36.826332,Highway_intersection,4.2,5.0,"PR8G+3GP, Luthuli avenue/ Tom Mboya junction Sunway building, Nairobi"
-CBD,Milestone City Hotel,-1.2873292,36.8283807,Highway_intersection,4.1,217.0,"Mfangano, Nairobi"
-CBD,Kampala International University-Nairobi Campus,-1.2849842,36.82133590000001,Highway_intersection,4.2,9.0,"Uganda House, Kenyatta Avenue, Nairobi"
-CBD,Bank of Africa Kenya Ltd,-1.2874349,36.8244578,Highway_intersection,4.5,14.0,"Reinsurance Plaza, 13, Taifa Road, Nairobi"
-CBD,Oriental Commercial Bank Ltd.,-1.2848091,36.8190091,Highway_intersection,5.0,1.0,Kenya
-CBD,Adenbay City Hotel,-1.28419,36.8280132,Highway_intersection,3.7,86.0,"and, Luthuli avenue junction of munyu road, Luthuli Avenue, Nairobi"
-CBD,The Technical University Of Kenya,-1.2912589,36.8252937,Highway_intersection,4.4,1380.0,Haile Selassie Avenue Entrance on Workshop Road
-CBD,KARIBU KWETU,-1.3004822,36.82623820000001,Highway_intersection,,,Mumias - Bungoma Road 249 NAIROBI KE
-CBD,LEADERS HOTELS,-1.282365,36.8223512,Highway_intersection,,,Moi Avenue 3 FLOOR Nairobi KE
-CBD,twin hotel,-1.2859,36.8229378,Highway_intersection,,,"10105, Wabera Lane 100, Nairobi"
-CBD,Varian Inc,-1.3018386,36.8229579,Highway_intersection,,,"P. O. Box 21610 Masaba Road, Nairobi"
-CBD,Classic Polo,-1.2858343,36.8216838,Highway_intersection,5.0,2.0,"Jubilee Insurance House, Kaunda Street, Nairobi"
-CBD,Citibank N.A. Kenya,-1.2973751,36.8179941,Highway_intersection,3.8,40.0,"PR39+25X, Road, Nairobi"
-CBD,Reuters Ltd,-1.285006,36.8185086,Highway_intersection,,,"12th Floor, Finance House, P . O. Box 34043, Nairobi"
-CBD,Ministry of Interior and Coordination of National Government,-1.2871562,36.81822449999999,Highway_intersection,3.0,37.0,"P. O. Box 30191 - 00100, Posta Road, Nairobi City"
-CBD,Gulf Bank,-1.2845975,36.82066149999999,Highway_intersection,3.9,20.0,"Kenyatta Avenue, Nairobi"
-CBD,Air Mauritius,-1.2843537,36.81803659999999,Highway_intersection,,,"PR89+763, Loita Street, Nairobi"
-CBD,Cars,-1.288521,36.825986,Highway_intersection,4.5,2.0,"Jeevan Bharati House, Harambee Avenue, Nairobi"
-CBD,Telkom Shop,-1.2867692,36.8196179,Highway_intersection,4.1,441.0,"PR79+7RX, Kaunda Street, Nairobi"
-CBD,Co-operative Bank,-1.2999212,36.8215539,Highway_intersection,3.9,10.0,"4th floor Upper Hill Road, Nairobi"
-CBD,CarMax (East Africa) Ltd,-1.2920659,36.82194619999999,Highway_intersection,4.2,77.0,"Msa Rd, Nairobi"
-CBD,Industrial & comm development corp,-1.286813,36.82533899999999,Highway_intersection,4.0,5.0,"Uchumi House, 17th Floor Aga Khan Walk, Starehe"
-CBD,Arid Lands Resource Management Project,-1.2886798,36.8234005,Highway_intersection,,,"Thirteenth Floor, KICC, P. O. Box 53547, Nairobi"
-CBD,Geminia Insurance Co Ltd - CBD Branch,-1.2908941,36.823204,Highway_intersection,4.1,30.0,"Agip House, 3rd Floor, P. O. Box 61316, Nairobi"
-CBD,Pioneer Insurance Company Ltd.,-1.288462,36.82665860000001,Highway_intersection,4.0,242.0,"Pioneer Assurance Company LTD, 7th Floor"
-CBD,May House Hotel,-1.285405,36.8205724,Highway_intersection,4.2,761.0,"680 Muindi Mbingu Street, Nairobi"
-CBD,Kenyatta University-City Centre Campus,-1.2913675,36.8227654,Highway_intersection,4.2,160.0,Starehe
-CBD,M-Pesa National Oil Corporation of Kenya,-1.290864,36.823371,Highway_intersection,,,"Agip House, Ground Floor, Nairobi Cbd, Nairobi"
-CBD,Ministry of Higher Education Science and Tech,-1.288835,36.8241939,Highway_intersection,5.0,3.0,"13, Nairobi"
-CBD,Platinum Credit-County,-1.2921098,36.8212145,Highway_intersection,4.5,2.0,"PR5C+5F4, County Road, Nairobi"
-CBD,Sanlam House,-1.2866945,36.816937,Highway_intersection,4.3,381.0,"Kenyatta Avenue, Nairobi"
-CBD,Nairobi City Court,-1.2871105,36.821506,Highway_intersection,3.5,2.0,"Nairobi City Council, Nairobi"
-CBD,Orbit School of Management Studies,-1.2880385,36.8264562,Highway_intersection,,,"Agriculture House, P.O. Box 9796 Harambee Avenue, Nairobi City"
-CBD,M-Pesa Tekalu Logistics,-1.2920659,36.82194619999999,Highway_intersection,,,"Ngecha Shopping Centre, Ngecha, Nairobi"
-CBD,Public Service Commission Of Kenya,-1.2895832,36.8220329,Highway_intersection,4.6,92.0,"Harambee Avenue, Nairobi"
-CBD,Mobicom (K) Ltd,-1.2874501,36.8244649,Highway_intersection,5.0,1.0,"Reinsurance Plaza, Taifa Road, Nairobi City"
-CBD,Solve Online Technologies,-1.288385,36.828174,Highway_intersection,,,"Nairobi Central Tom Mboya st Kenda hse, Nairobi"
-CBD,PesaPoint POS Tats Enterprises,-1.285882,36.82314,Highway_intersection,,,"Mama Ngina Street, Nairobi"
-CBD,Co-operative Bank - Parliament Road,-1.2914922,36.82182470000001,Highway_intersection,3.5,4.0,"P.O. Box 5772, Nairobi"
-CBD,Finance Department,-1.2911383,36.8226743,Highway_intersection,,,Kenya
-Karen,Ongata Mall,-1.3968651,36.75939,shopping_mall,3.7,109.0,"JQ35+7Q2, Imani Avenue, Ongata Rongai"
-Karen,The Nextgen Mall,-1.3237712,36.8440353,shopping_mall,4.2,9235.0,"Mombasa Road, Nairobi"
-Karen,Saawa Store,-1.3268955,36.85269439999999,shopping_mall,4.4,42.0,"Vision Plaza, Mombasa Road, Nairobi"
-Karen,Oretin,-1.3268747,36.8527485,shopping_mall,3.7,32.0,"Vision Plaza, Mombasa Road, Nairobi"
-Karen,Silkwood Office Suites,-1.3004397,36.7838148,shopping_mall,4.4,164.0,"MQXM+RGG, Ngong Road, Nairobi"
-Karen,Arcade Discounts Shopping mall,-1.3002531,36.7824126,shopping_mall,4.1,87.0,"Human hair addiction, Ngong Road, Nairobi"
-Karen,Brotherhood Autotech,-1.3160796,36.8159698,parking,,,"MRM8+H99, Nairobi"
-Karen,Parking,-1.3164035,36.8153626,parking,,,"MRM8+C4Q, Nairobi"
-Karen,Parking Lot,-1.3164089,36.8146169,parking,,,"MRM7+CRQ, Nairobi"
-Karen,Wilson Airport Vehicle Parking,-1.3171011,36.8137935,parking,5.0,1.0,"MRM7+5G3, Nairobi"
-Karen,Parking area,-1.3137703,36.81922499999999,parking,,,"MRP9+FMX, Mai Mahiu Road, Nairobi"
-Karen,T-Mall Parking,-1.3130088,36.8164073,parking,3.5,10.0,"MRP8+QHV, Nairobi"
-Karen,Parking,-1.3124684,36.8174319,parking,,,"MRQ8+2X7, Nairobi"
-Karen,Strathmore Garage,-1.3111126,36.8150692,parking,,,"MRQ7+GWV, Nairobi"
-Karen,Parking Lot,-1.3190475,36.8098319,parking,4.0,1.0,"MRJ5+9WP, Nairobi"
-Karen,School Parking Lot,-1.3138505,36.8235162,parking,,,"MRPF+FC2, Ole Shapara Avenue, Nairobi City"
-Karen,Sunshine Secondary School Parking Lot,-1.3205599,36.8091613,parking,4.0,8.0,Nairobi City
-Karen,South C Mosque Parking Lot,-1.3124842,36.82395700000001,parking,4.1,47.0,"MRQF+2H4, Muhoho Avenue, Nairobi City"
-Karen,Parking Lot,-1.3095818,36.81396249999999,parking,,,"MRR7+5H8, Keri Road, Nairobi"
-Karen,Parking Lot,-1.312714,36.82482169999999,parking,,,"MRPF+WW8, Muhoho Avenue, Nairobi City"
-Karen,University Bus Parking Lot,-1.3098446,36.8126026,parking,,,"MRR7+329, Keri Road, Nairobi"
-Karen,Parking Lot,-1.3134056,36.8085068,parking,4.0,2.0,"MRP5+JCJ, Keri Road, Nairobi City"
-Karen,Parking Lot,-1.3089483,36.8120821,parking,,,"MRR6+CRG, Nairobi"
-Karen,Bellevue Primary School Parking Lot,-1.3235577,36.82680689999999,parking,4.3,3.0,"MRGG+HPF, Nairobi"
-Karen,Naivas south C parking lot,-1.3225532,36.82787940000001,parking,4.9,7.0,"MRGH+X5C, Muhoho Road, Nairobi"
-Karen,Place ya Ngoma Nairobi west,-1.3081038,36.82347579999999,parking,,,"MRRF+QC3, Bukani Road, Nairobi"
-Karen,block c parking lot,-1.3154972,36.8050414,parking,3.8,58.0,"MRM4+R23, Nairobi"
-Karen,Strand Parking Lot,-1.3070612,36.8244231,parking,5.0,2.0,"MRVF+5QF, Gandhi Avenue, Nairobi"
-Karen,Wailers parking,-1.3069023,36.8250557,parking,5.0,1.0,"MRVG+62P, Nairobi"
-Karen,Parking Lot,-1.3097574,36.8282345,parking,5.0,1.0,"MRRH+37X, Nairobi"
-Karen,Parking Lot,-1.3051359,36.8235219,parking,,,"MRVF+WCR, Langata Road, Nairobi City"
-Karen,Supreme Auto,-1.3096669,36.82964400000001,parking,,,"Melili Road, Nairobi City"
-Karen,Parking Lot,-1.3130731,36.8027508,parking,,,"MRP3+Q4C, Nairobi City"
-Karen,Garage Nissan,-1.3092996,36.83005240000001,parking,,,"KIMC Prefabs, Nairobi"
-Karen,Parking Lot,-1.3024505,36.8199148,parking,3.0,1.0,"MRX9+2X7, Matumbato Road, Nairobi City"
-Karen,Kawi Complex Parking,-1.3255709,36.8320535,parking,,,"Garden 1 Estate, Nairobi"
-Karen,Parking Lot,-1.3160657,36.8338805,parking,,,"MRMM+HHC, Nairobi"
-Karen,Kebs Parking,-1.3221546,36.8342264,parking,4.4,115.0,"MRHM+4MQ, Popo Road, Nairobi City"
-Karen,Equity Centre Car Park,-1.3009973,36.8132054,parking,4.1,7.0,"MRX7+J74, Kenya Road, Nairobi"
-Karen,G-gas shop,-1.39043,36.94008,gas_station,3.0,6.0,"Mlolongo, Waybrdige Apartments Hse 2, Nairobi"
-Karen,Rubis Express Bulbul Service Station,-1.334142,36.672943,gas_station,4.2,180.0,"Ngong Road, Next to Bul Bul Bus stop, Ngong"
-Karen,Weston,-1.316117,36.8136996,bus_station,1.0,1.0,Kenya
-Karen,Langata Road Primary,-1.3172436,36.81278229999999,bus_station,,,Kenya
-Karen,Langata Road Primary,-1.3170236,36.8127608,bus_station,,,Kenya
-Karen,T-Mall,-1.3129896,36.8166715,bus_station,,,Kenya
-Karen,Airport View Estate,-1.3141376,36.8123853,bus_station,,,Kenya
-Karen,AMREF,-1.3190246,36.8108082,bus_station,,,Kenya
-Karen,Thogoto Road,-1.3114125,36.82062509999999,bus_station,,,Kenya
-Karen,Sunshine,-1.3203979,36.8094349,bus_station,,,Kenya
-Karen,Sunshine Sec. School,-1.3203994,36.8093875,bus_station,,,Kenya
-Karen,Clinic,-1.3101947,36.82233099999999,bus_station,,,Kenya
-Karen,Highrise,-1.314615,36.80788189999999,bus_station,,,Kenya
-Karen,Madaraka Flyover,-1.3079739,36.8193456,bus_station,4.0,1.0,Kenya
-Karen,Karuri Court,-1.3079685,36.8137211,bus_station,,,Kenya
-Karen,Karuri,-1.3079417,36.8137157,bus_station,,,Kenya
-Karen,Madaraka Primary,-1.3069332,36.8157649,bus_station,,,Kenya
-Karen,Baraka,-1.3066971,36.8171543,bus_station,,,Kenya
-Karen,Ramsey,-1.3067186,36.8181199,bus_station,,,Kenya
-Karen,Mvuli,-1.306327,36.8236935,bus_station,,,Kenya
-Karen,Memorial Hospital,-1.3109672,36.805484,bus_station,,,Kenya
-Karen,South C shopping centre,-1.3130271,36.8300718,bus_station,,,Kenya
-Karen,South C,-1.313628,36.8303722,bus_station,,,Kenya
-Karen,Tata Bus Terminus,-1.3118432,36.8298519,bus_station,,,Kenya
-Karen,Tata Bus Terminus,-1.3118271,36.8298894,bus_station,,,Kenya
-Karen,South C Shopping Centre,-1.3141859,36.8308282,bus_station,,,Kenya
-Karen,Kanisani,-1.3094115,36.828382,bus_station,,,Kenya
-Karen,South C,-1.3141537,36.8309998,bus_station,,,Kenya
-Karen,Shimo la Tewa,-1.3085908,36.8279958,bus_station,,,Kenya
-Karen,Government Plaza/Devis,-1.3095204,36.8287629,bus_station,,,Kenya
-Karen,Nyayo,-1.3058925,36.826778,bus_station,,,Kenya
-Karen,Nyayo,-1.3058335,36.8270141,bus_station,,,Kenya
-Karen,Capital Center,-1.3168387,36.8333387,bus_station,,,Kenya
-Karen,Capital Center,-1.3170558,36.83363379999999,bus_station,,,Kenya
-Karen,Capital Centre,-1.3168198,36.8339556,bus_station,,,Kenya
-Karen,Kenyatta Market Flyover,-1.3069278,36.8037781,bus_station,,,Kenya
-Karen,Deliverance Church,-1.3236487,36.8000794,bus_station,,,Kenya
-Karen,Kawi,-1.3257546,36.833623,bus_station,,,Kenya
-Karen,South C,-1.3187302,36.8364179,bus_station,,,Kenya
-Karen,Vumira/Mariakani,-1.3107097,36.8351787,bus_station,,,Kenya
-Karen,Belleview,-1.3195626,36.8377912,bus_station,,,Kenya
-Karen,Bellevue,-1.3196468,36.83797360000001,bus_station,5.0,2.0,Kenya
-Karen,Mosque,-1.3030118,36.80269989999999,bus_station,,,Kenya
-Karen,Belleview,-1.3194644,36.8383008,bus_station,,,Kenya
-Karen,Golden Gate,-1.31533,36.8382606,bus_station,,,Kenya
-Karen,Total Petrol Station/Corner,-1.3105166,36.8372816,bus_station,,,Kenya
-Karen,Mosque,-1.3024271,36.8022627,bus_station,,,Kenya
-Karen,Shopping Center,-1.3116983,36.8382928,bus_station,,,Kenya
-Karen,Car & General,-1.3017404,36.83257159999999,bus_station,4.0,1.0,Kenya
-Karen,The Boma Nairobi,-1.3241532,36.8334901,Highway_intersection,4.5,5107.0,"00100, Bellevue, Off Mombasa Road, 00200-60705 Red Cross Road, Nairobi"
-Karen,Saab Royale Hotel - South C,-1.3141362,36.8282993,Highway_intersection,4.3,409.0,Ndekwa Ave
-Karen,Upper Hill Hotel,-1.3049302,36.8115641,Highway_intersection,3.7,338.0,"Off Mawensi Road, Nairobi"
-Karen,Crowne Plaza Hotel,-1.3003408,36.81531299999999,Highway_intersection,4.5,5195.0,"MRX8+V48, Nairobi"
-Karen,Capital Heights Hotel,-1.303845399999999,36.8101919,Highway_intersection,4.0,619.0,"Hospital Road, Nairobi"
-Karen,Kenya National Federation of Agricultural Producers,-1.3132018,36.8161404,Highway_intersection,2.0,1.0,"MRP8+PF6, Nairobi"
-Karen,Bid B&B,-1.3204154,36.82337159999999,Highway_intersection,,,"5 Star Estate, Nairobi"
-Karen,Fancy Mum & Kids Wear,-1.3164715,36.8342873,Highway_intersection,,,"MRMM+CP7, Mombasa Road, Nairobi"
-Karen,Wilson Airport,-1.319185,36.817648,Highway_intersection,4.3,1879.0,"Wilson Airport, Karen, Langata Road, Nairobi"
-Karen,Mvuli House - B&B,-1.3061394,36.82383,Highway_intersection,4.0,405.0,"A 109, Nairobi"
-Karen,Milele Hotel,-1.3123438,36.8249974,Highway_intersection,4.1,630.0,"MRQF+2XJ, Muhoho Avenue, Nairobi"
-Karen,Strathmore Business School,-1.3102143,36.8126046,Highway_intersection,4.6,110.0,"MRQ7+W29, Ole Sangale Road, Nairobi City"
-Karen,Bellevue Estate,-1.3204067,36.8375636,Highway_intersection,4.1,59.0,"MRHQ+R2P, Popo Road, Nairobi"
-Karen,Kenyatta National Hospital,-1.3020942,36.8076643,Highway_intersection,3.9,451.0,"Hospital Road, Nairobi"
-Karen,Summerdale Inn,-1.3077525,36.8212351,Highway_intersection,4.1,1019.0,"Summerdale Inn, Gandhi Avenue, Nairobi"
-Karen,National Park,-1.3569641,36.8465564,Highway_intersection,,,Mugumoini
-Karen,Amani Counselling Centre & Training Institute,-1.3134616,36.8130867,Highway_intersection,3.5,39.0,"Raila Odinga Way, Nairobi"
-Karen,Relax Safari Hotel,-1.3126227,36.81912,Highway_intersection,5.0,2.0,"MRP9+XJ5, Mai Mahiu Road, Mai Mahiu"
-Karen,Ubuntu Place,-1.3085182,36.8134697,Highway_intersection,,,"MF 30, Madaraka Estate, Ole Sangale Road, Nairobi"
-Karen,Madaraka Guest Apartments,-1.3076606,36.81958909999999,Highway_intersection,4.3,3.0,"City Centre, Ole-Sangale Link Road, Nairobi"
-Karen,The Management University Of Africa,-1.3283534,36.8292929,Highway_intersection,4.4,133.0,"South C, Popo Road"
-Karen,Phoenix Aviation,-1.318127,36.8129082,Highway_intersection,4.8,38.0,"Langata Road, Nairobi"
-Karen,Nairobi West Prison,-1.316377,36.8103663,Highway_intersection,,,Nairobi
-Karen,Interstates Cargo Courier,-1.3169514,36.8151102,Highway_intersection,,,"Wilson Business Park, Wilson Airport, 2 Langata Road, Nairobi City"
-Karen,Gertrude's Children's Hospital - Nairobi West Clinic,-1.3123503,36.8166191,Highway_intersection,3.2,46.0,Tmall
-Karen,The Nairobi South Hospital,-1.3138048,36.82848860000001,Highway_intersection,3.5,170.0,"Muhoho Avenue, Nairobi"
-Karen,Ramani Communication Ltd,-1.3166401,36.81423950000001,Highway_intersection,5.0,1.0,"Wilken House, Wilson Airport, P. O. Box 15353 Langata Road, Nairobi"
-Karen,"Management Science Building, Strathmore University",-1.3108641,36.8143345,Highway_intersection,4.7,11.0,"MRQ7+MP4, Nairobi"
-Karen,Kenya Industrial Research And Development Institute,-1.3226129,36.8314891,Highway_intersection,4.6,135.0,South C Nairobi KE
-Karen,"Kikoy Co Ltd, The",-1.3203543,36.81040479999999,Highway_intersection,4.0,1.0,"Nairobi West Wilson Airport road Titan Hangar, Nairobi"
-Karen,Home Products Limited,-1.3143253,36.8174848,Highway_intersection,5.0,1.0,"MRP8+7X9, Mai Mahiu Road, Nairobi"
-Karen,Kenya School Of Flying,-1.317545,36.81601200000001,Highway_intersection,4.7,101.0,"Karen, Langata Road, Nairobi"
-Karen,Silverscreen Pictures,-1.3146498,36.8164127,Highway_intersection,,,"Kogo Star Plaza, Off Langata Road, Mai Mahiu Road"
-Karen,Z. Boskovic Air Charters,-1.3207462,36.8098018,Highway_intersection,4.6,65.0,"Wilson Airport, Langata Road, Nairobi"
-Karen,Kenya Water Institute,-1.3154216,36.82430159999999,Highway_intersection,4.4,230.0,"Ole Shapara Avenue, KEWI"
-Karen,Wilson Business Park,-1.3164304,36.8149817,Highway_intersection,4.4,585.0,Nairobi City
-Karen,Everett Aviation Ltd,-1.3206248,36.8099754,Highway_intersection,4.3,10.0,"P.O. Box 40813, Nairobi"
-Karen,Viringa Services,-1.312215,36.8116719,Highway_intersection,,,"Madaraka Estate, Akila, No. 1 Estate, Suite No. 96, Ole Sangale Link Road, Off Mbagathi Way, Nairobi City"
-Karen,Duncal Properties Ltd,-1.3142625,36.8174769,Highway_intersection,,,"Nairobi West Off Langata Rd West End Place, Nairobi"
-Karen,M-Pesa windsor golf club,-1.3224253,36.8196442,Highway_intersection,,,"Ridgeways-Windsor Hotel, Nairobi West, Nairobi"
-Karen,PesaPoint POS Madaraka Caltex Service Station Ltd,-1.308477,36.818667,Highway_intersection,,,"Langata Road, Madaraka Estate, Nairobi"
-Karen,"Virtual Coaching, Forex Consulting",-1.3106467,36.82503120000001,Highway_intersection,4.0,4.0,Nairobi
-Karen,Thaeclipse Entertainment,-1.3183289,36.8239725,Highway_intersection,5.0,2.0,"Rangers Court, Nairobi"
-Karen,Kwetu home of peace,-1.3091097,36.8112346,Highway_intersection,4.2,38.0,"Ole-Sangale Link Road, Nairobi"
-Karen,CTM Travel Lufthansa City Center,-1.3101057,36.81309100000001,Highway_intersection,3.9,11.0,"Ole Sangale Rd., Madaraka Estate Strathmore University, Students' Center, 1st Floor. Box 35797 Nairobi KE"
-Karen,Bluesky Aviation,-1.3196911,36.8171087,Highway_intersection,5.0,1.0,"MRJ8+4RH, Wilson Airport, Langata Road, Mombasa, Nairobi City"
-Karen,Yellow Wings Air Services Ltd,-1.3203284,36.8102614,Highway_intersection,4.5,66.0,"Lengai House II Wilson Airport, Langata Road, Nairobi"
-Karen,Kenya Archery,-1.3092362,36.81448,Highway_intersection,5.0,4.0,"Keri Road, Nairobi"
-Karen,M-Pesa Makro Communication,-1.317,36.825,Highway_intersection,,,"Mitumba Village, South C-Mitumba Slum, Nairobi"
-Karen,Horticultural Ethical Business Initiative,-1.3167981,36.814781,Highway_intersection,,,"7th Floor, Titan Building, Chaka Road, P. O. Box 27790, Nairobi"
-Karen,Conventual Franciscan Friars,-1.3242174,36.8225176,Highway_intersection,4.5,4.0,"MRGF+826, Nairobi City"
-Karen,"David Chola, Architect (Adroit Architecture)",-1.3134401,36.8169715,Highway_intersection,4.8,22.0,"Crystal Building, 2nd Floor Mai Mahiu Road, off Mbagathi Roundabout"
-Karen,PesaPoint POS Rangechem Pharmaceutical - Tmall,-1.312118,36.817127,Highway_intersection,,,"Tuskys T - Mall, Langata Road, Nairobi"
-Karen,NINETY NINES FLYING SCHOOL,-1.3173461,36.8152224,Highway_intersection,4.8,53.0,"MRM8+339, Nairobi"
-Karen,DG OASIS,-1.3256515,36.8231682,Highway_intersection,4.6,36.0,"MRFF+P7M, Muhoho Road, Nairobi"
-Karen,Air Traffic Ltd,-1.3203943,36.81028579999999,Highway_intersection,4.2,5.0,"Viwandani Langata Rd Lengai Hse, Wilson Airport Makadara"
-Kasarani,Njeri's Shop,-1.1923141,36.9281843,shopping_mall,3.6,28.0,"Nandwa Properties, Wendani, Opposite Kahawa Garisson, Next to Magunas Supermarket, Wendani"
-Kasarani,Garden City Mall,-1.2324833,36.8787799,shopping_mall,4.5,23059.0,"Thika Road, Nairobi"
-Kasarani,TRM - Thika Road Mall,-1.2195761,36.88842440000001,shopping_mall,4.4,28217.0,Nairobi
-Kasarani,FHTC Home Town Village,-1.2421449,36.8600088,shopping_mall,,,"QV56+42R, Nairobi"
-Kasarani,Dando Mart,-1.249917,36.9022942,shopping_mall,3.3,17.0,"Dandora next to Ushirika Primary School, Ground Floor, Nairobi City"
-Kasarani,Bobo Naturals,-1.2104328,36.89713320000001,shopping_mall,3.8,17.0,"QVQW+RVC, Githurai"
-Kasarani,Desert Traders,-1.2300554,36.8415828,shopping_mall,4.2,13.0,"QR9R+XJG, Kiambu Road, Nairobi"
-Kasarani,K-MALL,-1.2668435,36.9054594,shopping_mall,4.1,2486.0,"Koma Rock Road, Nairobi"
-Kasarani,"Ciata City Mall, Ridgeways",-1.2260248,36.83820899999999,shopping_mall,4.4,4193.0,"Kiambu Road, Nairobi"
-Kasarani,StarTimes Buru Buru Business Hall,-1.2832621,36.8797645,shopping_mall,3.9,13.0,"PV8H+MWR, Buru Buru Business Complex, Mumias South Road, Nairobi"
-Kasarani,Shujaa Mall,-1.281049,36.905752,shopping_mall,4.1,3457.0,Nairobi Central Spine Rd Next To Sosian Estate Main Gate Starehe
-Kasarani,The Point Mall Buruburu,-1.2936696,36.8758999,shopping_mall,4.2,3001.0,"PV4G+G9P, Rabai Road, Nairobi"
-Kasarani,Kahawa Sukari,-1.1974849,36.9263497,shopping_mall,4.1,109.0,Jemimah Road
-Kasarani,Pioneer Stalls,-1.1906933,36.93232189999999,shopping_mall,3.5,49.0,Baringo Road
-Kasarani,Gigiri Shopping Centre,-1.2379579,36.81030940000001,shopping_mall,4.2,362.0,"Shopping Centre, Limuru Road, Starehe"
-Kasarani,Bethel Garage,-1.2338357,36.8839844,parking,5.0,2.0,"QV8M+FH9, Nairobi City"
-Kasarani,GC 501,-1.230927,36.8790707,parking,,,"QV9H+JJG, City-Hall Way, Nairobi"
-Kasarani,Quiver back parking lot,-1.2312163,36.8768796,parking,3.0,1.0,"QV9G+RM4, Quver, Thika Road, Nairobi"
-Kasarani,GM Salvage,-1.229251,36.87923740000001,parking,,,"4329, Nairobi"
-Kasarani,POTTER'S AUTO CLINIC.,-1.2290032,36.8783714,parking,5.0,5.0,"QVCH+98X, Nairobi"
-Kasarani,Subaru Masters Auto Tech Garage,-1.242932,36.87779199999999,parking,,,"Baba Dogo Road, Nairobi"
-Kasarani,Mene Auto Garage,-1.2285668,36.8782548,parking,5.0,2.0,"QVCH+H8C, Unnamed Road, Nairobi"
-Kasarani,Drive Inn New Garage,-1.2437566,36.88072330000001,parking,,,Opposite GSU Headquarters All soaps
-Kasarani,Trailers and Lorries Parking Lot,-1.227647,36.8810552,parking,5.0,1.0,"QVCJ+WCV, Nairobi"
-Kasarani,Jose Garage,-1.238183,36.8714154,parking,4.1,11.0,"QV6C+PHF, Nairobi"
-Kasarani,Stadium Car Park,-1.2320931,36.8915517,parking,4.3,3.0,"QV9R+5J7, Nairobi"
-Kasarani,Bus and Matatu Park,-1.2329135,36.893683,parking,3.9,13.0,"QV8V+RFM, Nairobi"
-Kasarani,Car Park,-1.2310127,36.8948059,parking,4.5,2.0,"QV9V+HWV, Nairobi"
-Kasarani,Otitech Garage,-1.2516306,36.87775260000001,parking,,,River Kiamaiko
-Kasarani,Administration Parking Lot,-1.2189928,36.8787503,parking,3.0,1.0,"QVJH+CG2, Nairobi City"
-Kasarani,Sackman Auto Garage,-1.2406875,36.8968125,parking,,,"QV5W+PP, Nairobi"
-Kasarani,TRM Parking,-1.2199252,36.8895164,parking,5.0,3.0,"QVJQ+2RC, Nairobi"
-Kasarani,Rosambu Lorry Parking Lot,-1.2203772,36.8915024,parking,3.0,1.0,"QVHR+RJR, Nairobi"
-Kasarani,Ombwede Body Works,-1.2194387,36.89012969999999,parking,,,Clay City
-Kasarani,Mayudo Car Park,-1.2532105,36.8710265,parking,,,"PVWC+PC6, Huruma Road, Nairobi City"
-Kasarani,Musyoki Garage Roysambu,-1.2191643,36.8901604,parking,,,Nairobi
-Kasarani,USIU Library Parking Lot,-1.2162271,36.8792899,parking,4.5,38.0,"QVMH+GP3, Nairobi"
-Kasarani,Parking Lot,-1.2162582,36.8782067,parking,,,"Amphitheater Parking Lot, Nairobi City"
-Kasarani,Kennedy Ochieng Auto Garage,-1.2189903,36.8902804,parking,,,Nairobi
-Kasarani,Falcon Auto Garage,-1.2189903,36.8902804,parking,,,Nairobi
-Kasarani,Erick Auto Body Works,-1.2189903,36.8902804,parking,,,Nairobi
-Kasarani,Parking Garage,-1.2209055,36.8942383,parking,5.0,1.0,"QVHV+JMQ, Nairobi"
-Kasarani,Kento Auto Garage,-1.2185072,36.89144429999999,parking,,,Nairobi
-Kasarani,Mad Max Auto Garage,-1.2165949,36.88787599999999,parking,3.5,2.0,"QVMQ+956, Nairobi"
-Kasarani,Marto Auto Garage,-1.2177282,36.8904764,parking,,,Githurai
-Kasarani,Jamos Auto Garage,-1.2176929,36.8904889,parking,,,Nairobi
-Kasarani,Austin auto garage,-1.2173659,36.89001819999999,parking,5.0,1.0,Nairobi
-Kasarani,Onyango Auto garage,-1.2172465,36.89003649999999,parking,,,Nairobi
-Kasarani,Rubis Membley Service Station,-1.1708655,36.9176307,gas_station,4.2,195.0,"Northern Bypass Rd, Nairobi"
-Kasarani,Rubis Kangundo Road Service Station,-1.2552423,36.9662806,gas_station,4.0,79.0,"Kangundo Road, Nairobi City"
-Kasarani,Rubis Ruai Service Station,-1.2595841,36.9843527,gas_station,4.0,203.0,"Eastern Bypass, Nairobi"
-Kasarani,Rubis Thika Road Service Station,-1.1522768,36.96171229999999,gas_station,4.1,189.0,"Thika Road, Ruiru"
-Kasarani,National Oil Corporation-ikinu,-1.1009821,36.7976018,gas_station,3.7,35.0,"Gititu Road, Kiambu"
-Kasarani,Engen Juja,-1.123798,37.00528800000001,gas_station,4.0,18.0,"V2G4+F4M, Kenyatta Road, Juja"
-Kasarani,Ngumba Terminal,-1.233753,36.884501,bus_station,4.2,31.0,Kenya
-Kasarani,Homeland Inn,-1.2310174,36.8783113,bus_station,,,Kenya
-Kasarani,Homeland Inn,-1.2309515,36.87830859999999,bus_station,,,Kenya
-Kasarani,Garden City/Homeland Inn,-1.2304795,36.8790543,bus_station,5.0,1.0,Kenya
-Kasarani,Homeland/Garden City,-1.2308872,36.8775469,bus_station,,,Kenya
-Kasarani,Homeland/Garden City,-1.2308496,36.8776032,bus_station,,,Kenya
-Kasarani,Garden City,-1.2308228,36.8776435,bus_station,5.0,1.0,Kenya
-Kasarani,Garden City,-1.2305814,36.8779546,bus_station,,,Kenya
-Kasarani,Roasters,-1.2339234,36.8746126,bus_station,,,Kenya
-Kasarani,Roasters,-1.2347442,36.8739635,bus_station,,,Kenya
-Kasarani,Car Wash,-1.2323356,36.87308369999999,bus_station,,,Kenya
-Kasarani,Sai Raj,-1.2438185,36.8807119,bus_station,,,Kenya
-Kasarani,Samaki,-1.2437725,36.8785125,bus_station,,,Kenya
-Kasarani,Riverside,-1.2439189,36.8807709,bus_station,4.0,1.0,Kenya
-Kasarani,Ruaraka Police Post,-1.2440944,36.8837428,bus_station,,,Kenya
-Kasarani,Ruaraka Police Post/Baba Dogo Catho,-1.2441871,36.88379380000001,bus_station,5.0,1.0,Kenya
-Kasarani,Baba Dogo Catholic Church,-1.2441427,36.88469229999999,bus_station,,,Kenya
-Kasarani,Kawaa,-1.2445879,36.8755943,bus_station,,,Kenya
-Kasarani,Chandaria,-1.2442392,36.8850249,bus_station,,,Kenya
-Kasarani,Lucky Summer Junction,-1.240865,36.8888444,bus_station,,,Kenya
-Kasarani,Mwisho,-1.2442193,36.8861514,bus_station,1.0,1.0,Kenya
-Kasarani,Riverside,-1.2464348,36.88011909999999,bus_station,,,Kenya
-Kasarani,Baba Dogo Terminal,-1.244217,36.88740899999999,bus_station,,,Kenya
-Kasarani,Safari Park,-1.2259534,36.8850383,bus_station,4.0,1.0,Kenya
-Kasarani,Baba Dogo Terminal,-1.2442077,36.8874443,bus_station,,,Kenya
-Kasarani,Terminal,-1.244302,36.88740099999999,bus_station,,,Kenya
-Kasarani,Safari Park,-1.2258017,36.88538429999999,bus_station,,,Kenya
-Kasarani,Safari Park,-1.2252545,36.88513759999999,bus_station,4.5,2.0,Kenya
-Kasarani,Safari Park,-1.2252009,36.8852234,bus_station,,,Kenya
-Kasarani,Safari Park,-1.2251902,36.8852341,bus_station,,,Kenya
-Kasarani,Dawa Pharmaceuticals,-1.2468532,36.8750605,bus_station,,,Kenya
-Kasarani,Safari Park/USIU,-1.2249756,36.8854541,bus_station,5.0,1.0,Kenya
-Kasarani,Baba Dogo Junction/Dawa,-1.2471521,36.8744355,bus_station,,,Kenya
-Kasarani,Riverside,-1.2482694,36.8766511,bus_station,,,Kenya
-Kasarani,Baba Dogo Junction/Dawa,-1.2475759,36.87445700000001,bus_station,,,Kenya
-Kasarani,Dawa Pharmaceutical,-1.2471306,36.873014,bus_station,,,Kenya
-Kasarani,Dawa Pharmaceutical,-1.2471482,36.873014,bus_station,,,Kenya
-Kasarani,Garage,-1.2491852,36.8780646,bus_station,,,Kenya
-Kasarani,Naivas,-1.2471414,36.87245609999999,bus_station,,,Kenya
-Kasarani,Naivas,-1.2475184,36.87301129999999,bus_station,4.0,2.0,Kenya
-Kasarani,Kwa Bridge,-1.2494434,36.8778741,bus_station,,,Kenya
-Kasarani,Naivas Supermarket,-1.2475061,36.8726492,bus_station,,,Kenya
-Kasarani,Riverside 2,-1.2494695,36.87784189999999,bus_station,,,Kenya
-Kasarani,Naivas,-1.2475598,36.8726707,bus_station,,,Kenya
-Kasarani,Naivas,-1.2475061,36.8725044,bus_station,,,Kenya
-Kasarani,Riverside,-1.2497485,36.8784535,bus_station,,,Kenya
-Kasarani,Kemref,-1.2419823,36.8932566,bus_station,,,Kenya
-Kasarani,Kemref,-1.2419808,36.8933022,bus_station,,,Kenya
-Kasarani,Lex,-1.2475115,36.870997,bus_station,,,Kenya
-Kasarani,Northern Junction,-1.2475551,36.8709862,bus_station,,,Kenya
-Kasarani,Allsops,-1.2437993,36.86749400000001,bus_station,5.0,1.0,Kenya
-Kasarani,Allsops,-1.2451726,36.86789629999999,bus_station,,,Kenya
-Kasarani,Allsops,-1.2443266,36.8670487,bus_station,,,Kenya
-Kasarani,Allsops,-1.2456822,36.86744839999999,bus_station,,,Kenya
-Kasarani,Allsops,-1.2456784,36.8671748,bus_station,,,Kenya
-Kasarani,Allsops,-1.2457052,36.8670595,bus_station,,,Kenya
-Kasarani,Perfection,-1.2403247,36.89570279999999,bus_station,,,Kenya
-Kasarani,Allsops,-1.2456516,36.8666813,bus_station,,,Kenya
-Kasarani,Kariobangi Junction,-1.2525702,36.8789524,bus_station,,,Kenya
-Kasarani,Kanyama,-1.2525809,36.8821979,bus_station,,,Kenya
-Kasarani,Safari Park Hotel & Casino,-1.2267451,36.8828346,Highway_intersection,4.6,11297.0,Nairobi City
-Kasarani,United States International University Africa,-1.2180945,36.87921389999999,Highway_intersection,4.6,948.0,"USIU Road, Off Thika Road (Exit 7"
-Kasarani,Mama Nduta,-1.2513727,36.88957449999999,Highway_intersection,5.0,1.0,Kenya
-Kasarani,The Nest Place,-1.2363331,36.8751359,Highway_intersection,4.3,12.0,"QV7G+F36, Off Thika superhighway Garden Estate, Thika Road"
-Kasarani,Murphy Chemicals (East Africa) Ltd,-1.2443111,36.88482690000001,Highway_intersection,4.6,10.0,"Murphy Chemicals E A Premises, Baba Dogo Road, Nairobi"
-Kasarani,"Sai Raj Limited - Baba Dogo Road, Ruaraka",-1.24241,36.88118000000001,Highway_intersection,4.5,263.0,"Baba Dogo Road, Nairobi"
-Kasarani,A-Plus Motors-Thika Road Branch,-1.2273338,36.88198979999999,Highway_intersection,4.0,31.0,"Thika Road, Nairobi"
-Kasarani,Regal Pharmaceuticals Ltd,-1.2460403,36.87666979999999,Highway_intersection,3.9,19.0,"Road 1, off Baba dogo Road"
-Kasarani,In House Decor,-1.2439725,36.8774825,Highway_intersection,5.0,1.0,"QV4G+CX9, Off Thika Road, Baba Dogo Road, Nairobi City"
-Kasarani,Jah Works Arts Gallery,-1.2370004,36.8718781,Highway_intersection,4.5,2.0,Umoja 2
-Kasarani,Baba Dogo Primary School,-1.2433996,36.88648309999999,Highway_intersection,3.2,24.0,"Baba Dogo, P.O Box 10347, Nairobi City"
-Kasarani,The Luke Hotel- NAIROBI,-1.23476,36.8711776,Highway_intersection,4.1,1513.0,"Garden Estate Road, Off Thika Road, Nairobi"
-Kasarani,Centre for Alternative Technologies Ltd (CAT),-1.2416485,36.87868489999999,Highway_intersection,4.3,27.0,"Abacus Lane, Baba Dogo Road. 2 Ruaraka Business Park Box 64921, Nairobi"
-Kasarani,The Most Famous Cake Shop,-1.226868,36.8847741,Highway_intersection,5.0,2.0,"1st Floor, Gothen Building, Close to The Kenya Tents Ltd., Thika Road, Nairobi City"
-Kasarani,BAKPHARM LTD,-1.244614,36.8813094,Highway_intersection,3.5,4.0,"Kenafric Business Park, Nairobi"
-Kasarani,Mill Bakers Ltd,-1.2476713,36.8824311,Highway_intersection,4.3,36.0,Nairobi
-Kasarani,JCB Kenya - Ganatra Plant & Equipment Ltd.,-1.2444038,36.8831007,Highway_intersection,4.3,121.0,Box 31024 Baba Dogo Road
-Kasarani,PesaPoint POS Oil Libya Electro Systems,-1.2434913,36.880434,Highway_intersection,,,"Baba Dogo Road, Nairobi"
-Kasarani,Survey,-1.2567109,36.8586637,Highway_intersection,,,Ruaraka
-Kasarani,Elite Trailers Limited,-1.2404054,36.88794660000001,Highway_intersection,3.7,3.0,"QV4J+J52, baba dodo, Nairobi"
-Kasarani,Oshwal Wholesalers (K) Ltd,-1.2415792,36.8760532,Highway_intersection,4.1,28.0,"Baba Dogo Road, Nairobi"
-Kasarani,PesaPoint ATM Uchumi Jipange,-1.232015,36.875674,Highway_intersection,1.0,1.0,"Uchumi Jipange, Thika Road, Garden Estate, Thika Road, Nairobi"
-Kasarani,Airtel Money Stima Expertees,-1.23179,36.875953,Highway_intersection,5.0,1.0,"Next To Jambo Grill Hotel, Thika Road, Nairobi"
-Kasarani,Mountain View School,-1.223568,36.8779715,Highway_intersection,4.5,90.0,"Mountain View School, USIU Road, Nairobi"
-Kasarani,East African Foundry Works (K) Ltd,-1.2436829,36.8804292,Highway_intersection,4.6,21.0,"P.O.Box 48624 Baba Dogo Road, Nairobi"
-Kasarani,PesaPoint POS Acacia Jubilee Insurance - Baba Dogo,-1.244398,36.88408,Highway_intersection,,,Nairobi
-Kasarani,Radio Waumini,-1.2273364,36.8826474,Highway_intersection,4.4,152.0,"NATIONAL YOUTH CENTRE, Babadogo THIKA, Nairobi"
-Kasarani,Airtel Money Thome Hardware,-1.228808,36.879665,Highway_intersection,,,"After Jambo Grill, Forest Road, Nairobi"
-Kasarani,Airtel Money Salama Motors,-1.229784,36.877884,Highway_intersection,,,"Next To Homeland Hotel, Forest Road, Salama Motors, Nairobi"
-Kasarani,M-Pesa Transport and Lifting Services,-1.2374236,36.8822,Highway_intersection,,,Kenya
-Kasarani,Mustard Projectors and Communication Services,-1.243278,36.881699,Highway_intersection,,,"1st Floor, Laichem House, P. O. Box 70924 Baba Dogo Road, Nairobi"
-Kasarani,PesaPoint POS Traron Enterprises - Ngumba,-1.232476,36.883785,Highway_intersection,,,Nairobi
-Kasarani,Richman Pork Butchery,-1.243294,36.868897,Highway_intersection,4.2,6.0,"QV49+MHJ, Thika Road, Opposite Nyani House, On Your Way To Isili, Nairobi"
-Kasarani,Narrow Gate Apostolic Ministries,-1.2443533,36.8832493,Highway_intersection,4.5,4.0,"QV4M+775, Road, Nairobi City"
-Kasarani,Autoshow Ltd,-1.2385936,36.8711056,Highway_intersection,4.8,6.0,"Along Thika Road, Opposite Roasters INN, Entrace To Kenya Breweries, Nairobi City"
-Kasarani,Hyperteck Electrical Services Ltd,-1.2275145,36.8814659,Highway_intersection,4.6,25.0,"Thika Road Super Highway.exit 7 Next To Crescent Petrol Station,(just, Before Safari Park Hotel), Post office Box 15537-00100., Nairobi"
-Kasarani,Kenya Seed Company,-1.2444342,36.8842113,Highway_intersection,4.6,36.0,"Near Ruaraka Police Station, Next To Bank Of Africa, Along Baba Dogo Road, Baba Dogo, Nairobi"
-Kasarani,Harvesters Caterers,-1.2341123,36.874752,Highway_intersection,4.4,10.0,"P.O Box No. 901, Ruaraka, Thika Road, Nairobi"
-Kasarani,Ngeshngesh,-1.2307261,36.8764742,Highway_intersection,,,"QV9G+PH5, Thika Road, Nairobi"
-Kasarani,Symo Fresh Milk Distributors,-1.228599,36.8785876,Highway_intersection,,,"QVCH+HC8, Near Sports View Hotel Junction, Kasarani, Nairobi"
-Kasarani,Future Star Beauty Salon,-1.231079,36.887195,Highway_intersection,5.0,1.0,"QV9P+HV8, Near Sports View Junction, Nairobi"
-Kasarani,Rampel Designs Ltd,-1.2441275,36.8830997,Highway_intersection,,,"Baba Dogo Road, Nairobi"
-Kasarani,M-Pesa Top Connection,-1.2333829,36.8851301,Highway_intersection,,,"Ngumba Estate Opposite Mother Teresa Sisters, Ngumba, Nairobi"
-Kasarani,Ampol Ventures Ltd,-1.234101,36.870722,Highway_intersection,3.0,3.0,"Victory House, Ground Floor, Nairobi"
-Kasarani,Airtel Money Coach Barbers,-1.23239,36.883742,Highway_intersection,5.0,1.0,"Ground Floor, Morphic Towers, Gumba Shopping Centre, Forest Road, Nairobi"
-Kasarani,"Team Building in Kenya, Team Building Venues in Kenya, Team Building Companies in Kenya Masai Africa Safaris Ltd, Team Building Kenya, Team Building Trainers in Nairobi, Team Building Trainers in Mombasa, Team Building Venues in Mombasa, Team Building, Trainers in Naivasha,",-1.2326904,36.8736154,Highway_intersection,5.0,8.0,"3rd Floor, Mountain Mall Naivas, Thika Road, Nairobi"
-Kasarani,L. G. Harris & Co(EA) Ltd.,-1.2410623,36.88786569999999,Highway_intersection,4.6,20.0,"Baba Dogo Road, Nairobi"
-Kasarani,PesaPoint POS Express Supermarket,-1.2336809,36.884345,Highway_intersection,,,"Ngumba Market, Ngumba Estate, Nairobi"
-Kasarani,Twilight Movie Libraries,-1.2443251,36.8840875,Highway_intersection,4.0,1.0,"QV4M+7J8, Nairobi"
-Kasarani,PesaPoint ATM KCB - Kariobangi,-1.245959,36.88304,Highway_intersection,3.5,2.0,"Rd, Nairobi"
-Kasarani,Orange Pharma Ltd,-1.24351,36.88214249999999,Highway_intersection,2.5,2.0,"Baba Dogo Road, Nairobi"
-Kasarani,Celah Records,-1.2323036,36.8753193,Highway_intersection,4.5,2.0,"Mwalimu House Building, 1st Floor, Next To Classic Grill, Uchumi Jipange, Thika Road, Nairobi City"
-Kasarani,PesaPoint POS Lily White Product,-1.244608,36.887025,Highway_intersection,,,"Baba Dogo Road, Ruaraka"
-Kasarani,Lancom Cultural Center,-1.2270042,36.8821236,Highway_intersection,,,"QVFJ+5RX, Off, Thika Road, Nairobi City"
-Kasarani,A Flame Of Joy Centre,-1.2437729,36.88040199999999,Highway_intersection,,,"P. O Box No. 00 CN 818 -184,Located Close To The Ebenezer Chemist, Kariandudu Road Baba Dogo Road, Nairobi City"
-Kasarani,Stanford Beauty Salon,-1.2441897,36.8781853,Highway_intersection,3.3,3.0,"QV4H+87F, Groundfloor lucky summer, Baba Dogo Road, Nairobi"
-Kasarani,Sufuri Cycles Ltd,-1.2332275,36.8729755,Highway_intersection,,,"QV8F+P55, Waka Business Centre, Next to Uchumi Jipange Garden Estate, Thika Road, Nairobi City"
-Kasarani,M-Pesa Nomad Transpares Ltd,-1.2456775,36.8814488,Highway_intersection,,,"Stage 25, Baba Dogo, Baba Dogo Glucola"
-Westlands,Just for naturals hair kitchen,-1.3000516,36.773609,shopping_mall,3.4,25.0,"MQXF+XCH, Business Centre, off Ole Odume,, Ngong Road, Ngong"
-Westlands,The Junction Mall,-1.298489,36.76247339999999,shopping_mall,4.4,19928.0,"Junction, Ngong Road, Kingara Road, Nairobi"
-Westlands,Althaus Services Limited,-1.2822691,36.7665787,shopping_mall,4.6,14.0,"James Gichuru Road, Nairobi"
-Westlands,Tuani women's clothing stores,-1.2978368,36.7597738,shopping_mall,4.4,10.0,"Riara Centre, Riara Road, Nairobi"
-Westlands,MediaSpace Kenya,-1.2623056,36.7973114,shopping_mall,3.0,9.0,"PQQW+3WF, Wendy Court Office Park, Off Avenue, Westlands,, David Osieli Road, Nairobi"
-Westlands,Bellion Eng. Ltd,-1.3364051,36.76275629999999,shopping_mall,4.3,10.0,"MQ77+C4J, Muiri Close, Nairobi"
-Westlands,Brother Garage (K) Ltd (Closed Down),-1.2992845,36.78569510000001,parking,,,"Ngong Road, Nairobi"
-Westlands,Orkmond Auto,-1.2959939,36.7798596,parking,,,"Yahya Center, along, Muringa Road, Nairobi"
-Westlands,KAPS Parking Adams Arcade,-1.300529,36.78056359999999,parking,,,"MQXJ+Q6P, Nairobi"
-Westlands,KAPS Parking Nakumatt Prestige,-1.300159,36.78709750000001,parking,,,"MQXP+WRQ, Nairobi"
-Westlands,Kilungu road,-1.2939657,36.7789549,parking,4.0,2.0,"PQ4H+CH8, Kilungu Road, Nairobi"
-Westlands,Rosami Court Parking Lot,-1.2962776,36.777364,parking,4.2,25.0,"PQ3G+FWQ, Muringa Road, Nairobi City"
-Westlands,Westend Auto World Ltd,-1.2966302,36.7760797,parking,,,"PQ3G+8CW, Nairobi"
-Westlands,Car Garage & Car Wash,-1.2965081,36.77584700000001,parking,4.1,23.0,"PQ3G+98X, Nairobi"
-Westlands,Newdawn auto garage,-1.3039399,36.77957109999999,parking,,,"MQWH+FR4, Joseph Kangethe Road, Nairobi"
-Westlands,Prime Office Suites Parking lot,-1.2978751,36.7905907,parking,5.0,1.0,"PQ2R+R6W, Kindaruma Road, Nairobi"
-Westlands,Uchumi Hyper Parking Lot,-1.3000464,36.79126599999999,parking,3.7,21.0,"MQXR+XGJ, Ngong Road, Nairobi"
-Westlands,Chaka Place Parking Lot,-1.2929063,36.79131879999999,parking,,,"PQ4R+RGP, Jabavu Road, Nairobi City"
-Westlands,Tigoni Heights Parking,-1.2902132,36.7896241,parking,5.0,1.0,"PQ5Q+WR9, Tigoni Road, Nairobi City"
-Westlands,Titan Parking Lot,-1.2906913,36.79061919999999,parking,3.7,30.0,"PQ5R+P6H, Chaka Road, Nairobi City"
-Westlands,Mdohsh Auto services,-1.3007414,36.7928304,parking,5.0,1.0,"Kabarnet Road, Nairobi"
-Westlands,Tigoni Towers Swimming Pool,-1.2898378,36.79019,parking,4.3,3.0,"PQ6R+338, Chaka Road, Nairobi City"
-Westlands,Terranova Parking Lot,-1.290008,36.7905053,parking,5.0,1.0,"PQ5R+X6R, Chaka Road, Nairobi City"
-Westlands,Narok,-1.2869257,36.7851589,parking,4.5,2.0,"PQ7M+7WF, Nairobi"
-Westlands,Regent Automobile valuers & Assessors Ltd-Ngong Road,-1.3006604,36.79347309999999,parking,2.7,3.0,"Jameson Court, Block D, Nairobi"
-Westlands,New World Auto Garrage,-1.2902906,36.7748069,parking,3.0,2.0,"PQ5F+VWM, Ole Odume Road, Nairobi"
-Westlands,Westend Auto World Ltd.,-1.2907547,36.7924735,parking,5.0,1.0,"PQ5R+MXX, Kasuku Lane, Nairobi"
-Westlands,Viance Parking,-1.2885755,36.7921331,parking,5.0,2.0,"Apt B7, Nairobi"
-Westlands,Silver Pool Parking Lot,-1.2886836,36.79233589999999,parking,3.0,2.0,"PQ6R+PV2, Apt B7 Lenana Road, Nairobi"
-Westlands,Jumuia Parking Lot,-1.2891606,36.7933282,parking,4.2,12.0,"PQ6V+88P, Rose Avenue, Nairobi City"
-Westlands,Riara Extra Parking Lot,-1.2966454,36.7694505,parking,4.1,11.0,"PQ39+8QW, Makindi Road, Nairobi City"
-Westlands,Residents Car Parking,-1.3055625,36.7717031,parking,,,"MQVC+QMG, Nairobi"
-Westlands,KAPS Office,-1.2906312,36.77068699999999,parking,1.0,1.0,"PQ5C+P7V, Nairobi"
-Westlands,Kenya Airport Parking Services(Head Office),-1.296696,36.797614,parking,5.0,1.0,"Kindaruma Road, Nairobi"
-Westlands,Visitors Parking,-1.2961291,36.76863449999999,parking,,,"PQ39+GFR, Makindi Road, Nairobi City"
-Westlands,Top Job Motors,-1.284359,36.789612,parking,,,"Likoni Close, Nairobi"
-Westlands,Newton’s Premium Autos,-1.2938131,36.7974357,parking,3.2,30.0,"Jabavu Lane, Off Argwings Kodhek Road, Nairobi"
-Westlands,Valley Arcade Parking Lot,-1.2902516,36.77017999999999,parking,5.0,4.0,"PQ5C+V3V, Nairobi"
-Westlands,Parking lot,-1.3023042,36.79708059999999,parking,,,"MQXW+3RG, Kibera Road, Nairobi City"
-Westlands,Gas Point Depot,-1.3489601,36.6606688,gas_station,4.5,2.0,"MM26+C77, Ngong Road, Ngong"
-Westlands,Motherland,-1.2998629,36.7837179,bus_station,,,Kenya
-Westlands,Adams Arcade,-1.2999916,36.78144869999999,bus_station,,,Kenya
-Westlands,Adams Arcade,-1.3000131,36.7812073,bus_station,,,Kenya
-Westlands,Adams Arcade,-1.3000483,36.7811805,bus_station,,,Kenya
-Westlands,Motherland,-1.2999809,36.7809176,bus_station,,,Kenya
-Westlands,Adam's Arcade,-1.2999609,36.7808077,bus_station,3.8,4.0,Kenya
-Westlands,Adams Arcade,-1.3000721,36.7800888,bus_station,,,Kenya
-Westlands,Kilimani primary school,-1.2925151,36.78370449999999,bus_station,,,Kenya
-Westlands,Kilimani Primary School,-1.2924761,36.7831975,bus_station,,,Kenya
-Westlands,Kirichwa,-1.2926669,36.78173840000001,bus_station,,,Kenya
-Westlands,Adlife Plaza,-1.2948257,36.7874756,bus_station,,,Kenya
-Westlands,Nakumatt Prestige,-1.299997,36.78750519999999,bus_station,,,Kenya
-Westlands,Prestige,-1.2990636,36.7880738,bus_station,,,Kenya
-Westlands,Adlife Plaza,-1.294772,36.78769560000001,bus_station,,,Kenya
-Westlands,Wood Avenue,-1.2922508,36.7855606,bus_station,,,Kenya
-Westlands,Wood Avenue,-1.2923205,36.7860594,bus_station,,,Kenya
-Westlands,Edulink International College,-1.3001043,36.77755680000001,bus_station,4.0,2.0,Kenya
-Westlands,Elgeyo,-1.292778,36.7789355,bus_station,,,Kenya
-Westlands,Total Ngong Road,-1.299836,36.78884620000001,bus_station,,,Kenya
-Westlands,Elgeyo,-1.2927175,36.7786378,bus_station,,,Kenya
-Westlands,Yaya,-1.2923772,36.7877144,bus_station,,,Kenya
-Westlands,Yaya,-1.2919021,36.7871565,bus_station,,,Kenya
-Westlands,Yaya,-1.2924439,36.78830180000001,bus_station,,,Kenya
-Westlands,Yaya,-1.2925565,36.7888007,bus_station,,,Kenya
-Westlands,Bishop Magua Center,-1.2994552,36.79085249999999,bus_station,,,Kenya
-Westlands,Spanish Villas/Lenana,-1.2900153,36.786781,bus_station,,,Kenya
-Westlands,Spanish Villas/Lenana,-1.2899977,36.7868641,bus_station,,,Kenya
-Westlands,Bishop Magua Centre,-1.2993908,36.7912388,bus_station,5.0,1.0,Kenya
-Westlands,Lenana,-1.2888835,36.78703840000001,bus_station,,,Kenya
-Westlands,Lenana,-1.2888229,36.7871538,bus_station,,,Kenya
-Westlands,Kwa DC,-1.3057744,36.7876017,bus_station,4.5,2.0,Kenya
-Westlands,Ole Odume Bus Stage,-1.2928278,36.7746574,bus_station,,,Kenya
-Westlands,Uchumi/National Oil,-1.2993318,36.7927086,bus_station,,,Kenya
-Westlands,Bangladesh,-1.2918515,36.774711,bus_station,,,Kenya
-Westlands,Bangladesh,-1.2919235,36.7745554,bus_station,,,Kenya
-Westlands,Uchumi,-1.299305,36.793685,bus_station,,,Kenya
-Westlands,Methodist,-1.2904537,36.7747486,bus_station,,,Kenya
-Westlands,Methodist,-1.2904276,36.7747271,bus_station,,,Kenya
-Westlands,Methodist,-1.2902445,36.7747566,bus_station,,,Kenya
-Westlands,Kwa Njiru,-1.308446,36.78157699999999,bus_station,5.0,1.0,Kenya
-Westlands,Methodist,-1.2903035,36.7743918,bus_station,,,Kenya
-Westlands,Methodist,-1.2899709,36.7746681,bus_station,,,Kenya
-Westlands,Posta Stage,-1.3004706,36.77188659999999,bus_station,,,Kenya
-Westlands,Posta Stage,-1.3004744,36.7718679,bus_station,,,Kenya
-Westlands,Othaya Road,-1.2902284,36.77345839999999,bus_station,,,Kenya
-Westlands,Othaya,-1.2900705,36.7730159,bus_station,,,Kenya
-Westlands,Dennis Pritt,-1.2851498,36.78795580000001,bus_station,,,Kenya
-Westlands,Dennis Pritt,-1.2851069,36.7880523,bus_station,,,Kenya
-Westlands,Kwa Benard Stage,-1.2900199,36.77150849999999,bus_station,1.0,1.0,Kenya
-Westlands,Viraj,-1.2839321,36.7861265,bus_station,,,Kenya
-Westlands,Mugoiri,-1.2843275,36.7786163,bus_station,,,Kenya
-Westlands,Makueni,-1.2841788,36.7790294,bus_station,,,Kenya
-Westlands,Viraj,-1.2837911,36.7862418,bus_station,,,Kenya
-Westlands,Jamhuri Shopping Centre,-1.3044173,36.7709988,bus_station,4.6,7.0,Kenya
-Westlands,Impala/Swedish School Nairobi,-1.3005388,36.76902200000001,bus_station,,,Kenya
-Westlands,Mwingi,-1.2830776,36.7861882,bus_station,,,Kenya
-Westlands,Mwingi,-1.2830309,36.7859763,bus_station,,,Kenya
-Westlands,Jamhuri Station Road Stage,-1.3039613,36.7696309,bus_station,,,Kenya
-Westlands,Jacaranda/Siaya Road,-1.2826431,36.78677289999999,bus_station,,,Kenya
-Westlands,Jamhuri Station Road Stage,-1.303983,36.769137,bus_station,5.0,3.0,Kenya
-Westlands,Godials Bed and Breakfast,-1.2895815,36.7832421,Highway_intersection,4.2,44.0,"Kilimani Lenana, Galana Road, Nairobi"
-Westlands,Alata Styles,-1.299171,36.7875407,Highway_intersection,5.0,1.0,"Kilimani Ngong road Mecky place Dagoreti North, Nairobi"
-Westlands,Truworths,-1.2927472,36.7879772,Highway_intersection,,,Nairobi
-Westlands,Lexy's Collection,-1.293195,36.7877455,Highway_intersection,,,"Yaya Centre, Argwings Kodhek Road, Nairobi"
-Westlands,Jamhuri Estate,-1.3000344,36.78088079999999,Highway_intersection,4.1,601.0,"Ngong Road, Nairobi"
-Westlands,SHAI SUITES,-1.2950895,36.78769279999999,Highway_intersection,4.2,6.0,"Johari Apartments, Ring Road Kilimani, Nairobi"
-Westlands,The Faraja Vista @Woodley,-1.3046705,36.7789849,Highway_intersection,,,"Plus Code, Wamagata Road MQWH+9V, Nairobi"
-Westlands,Steak And Ale Restaurant-Ngong Rd,-1.2983801,36.7899297,Highway_intersection,3.5,11.0,"Kawangware George Padimore Ln Dundee Court, North"
-Westlands,Bridge Apartment,-1.2909039,36.7804204,Highway_intersection,4.8,4.0,"PQ5J+J5M, Kirichwa Road, Nairobi"
-Westlands,Wuduria Hotel,-1.3011058,36.7877783,Highway_intersection,4.2,108.0,"21908-00505 Mugo Kibiru Drive, Nairobi"
-Westlands,Kilimani Central,-1.2986435,36.7905812,Highway_intersection,5.0,1.0,"Casa Aacacia, Apartments"
-Westlands,Bunkers Bio Centre,-1.3067126,36.78497849999999,Highway_intersection,4.0,1.0,"MQVM+8X9, Nairobi"
-Westlands,Jamhuri Posta Building,-1.3006587,36.77375979999999,Highway_intersection,4.1,7.0,"25, Nairobi"
-Westlands,Video One,-1.2931135,36.7880419,Highway_intersection,2.3,13.0,"Ground Floor, Yaya Centre, Nairobi"
-Westlands,Furnished Apartment Nairobi,-1.2892786,36.78693109999999,Highway_intersection,5.0,3.0,Nairobi
-Westlands,Anna Purna Guest House,-1.2987991,36.7932169,Highway_intersection,3.0,1.0,"PQ2V+F7P, Kambur drive off ngong road, Nairobi"
-Westlands,"Britam, Timau Plaza",-1.29223,36.789787,Highway_intersection,5.0,3.0,"Timau Plaza, Nairobi"
-Westlands,Golf Course,-1.3053436,36.79541469999999,Highway_intersection,,,Golf Course
-Westlands,Kilima Cha Alfajiri,-1.2944428,36.78320739999999,Highway_intersection,3.7,3.0,"Menelik Road No 7 Floor 7 Yaya Brooks, Nairobi"
-Westlands,"Fully Furnished Apartment, Kilimani",-1.294338,36.78178310000001,Highway_intersection,4.0,1.0,"sapphire court apartment, Kirichwa Road, Nairobi"
-Westlands,Golden Moon Star Hotel,-1.299256,36.77715999999999,Highway_intersection,3.6,8.0,"Golden Moon Star Hotel, Ngong Road, Nairobi"
-Westlands,"Gemina Court - Serviced apartments Nairobi, Kilimani",-1.2961353,36.7896277,Highway_intersection,4.1,19.0,"Gemina Court, George Padmore Road, Nairobi"
-Westlands,Stunning rooms in Nairobi,-1.2925399,36.7887548,Highway_intersection,4.0,1.0,"Argwings Kodhek Road 3 Stock, Nairobi"
-Westlands,East African Educational Publishers Ltd.,-1.2952673,36.77915719999999,Highway_intersection,4.2,27.0,"Elgeyo Marakwet North, Nairobi"
-Westlands,PesaPoint POS Arata Services - Prestige Plaza,-1.300695,36.787258,Highway_intersection,,,"Prestige Plaza, Woodley Estate, Nairobi"
-Westlands,Crowe Erastus & Co,-1.2994725,36.78352999999999,Highway_intersection,4.6,21.0,"Morning Side Office Park, 2nd Floor (Wing B), City Square,, Ngong Road, Nairobi"
-Westlands,Menelik Medical Centre,-1.296924,36.7838012,Highway_intersection,3.6,38.0,"PQ3M+6GM, Menelik Road, Nairobi"
-Westlands,New Trafford Serviced Apartments,-1.2988534,36.7822785,Highway_intersection,4.3,8.0,"Corner Of Kilimani Road, Kirichwa Road, Opposite Nairobi Womens Hospital Nairobi City KE"
-Westlands,Silver Bird,-1.3007382,36.7870116,Highway_intersection,,,Kenya
-Westlands,Rochman Properties Limited,-1.2991667,36.7835495,Highway_intersection,4.5,30.0,"Morning Side Office Park, Ngong Road, Nairobi"
-Westlands,Ecotact,-1.2941138,36.7843113,Highway_intersection,4.6,5.0,"PQ4M+9P3, Eco house, Off Ngong Road,, Menelik Road, Nairobi"
-Westlands,Association Of Consulting Engineers Of Kenya,-1.2982931,36.78670529999999,Highway_intersection,4.9,8.0,"Commodore Office Suites, Kindaruma Road, Nairobi"
-Westlands,Faulu Kenya,-1.3004961,36.7850824,Highway_intersection,4.2,15.0,"Off Ngong Road, City square, Ngong Lane, Nairobi"
-Westlands,Centre For Tropical & Travel Medicine,-1.299456,36.782331,Highway_intersection,4.3,32.0,"Adams Arcade, Kirichwa Road, Ngong"
-Westlands,CGTN Africa,-1.2905759,36.78571139999999,Highway_intersection,4.4,22.0,"PQ5P+Q78, Nairobi"
-Westlands,Lords Limited,-1.3007543,36.781674,Highway_intersection,5.0,1.0,"Ground Floor, The Greenhouse Ngong Road, Nairobi City"
-Westlands,Jayelle Styles,-1.300427,36.781786,Highway_intersection,2.5,2.0,"MQXJ+RPF, Ngong Road, Adams Archade, The Green House, Nairobi"
-Westlands,Indulge Nail and Beauty Lounge,-1.2938225,36.7815962,Highway_intersection,3.0,1.0,"PQ4J+FJH, Kirichwa Road, Nairobi"
-Westlands,M-Pesa K-REP Bank,-1.2951482,36.7862973,Highway_intersection,,,"Wood Avenue, Nairobi"
-Westlands,Islamic Relief Kenya Somalia Programme,-1.2982289,36.7821484,Highway_intersection,4.3,20.0,"PQ2J+PV2, Kirichwa Road, Nairobi"
-Westlands,Training Solutions Limited,-1.2921502,36.785463,Highway_intersection,,,"PQ5P+45P, Wood Avenue, Nairobi City"
-Westlands,Jesuits Of Eastern Africa,-1.2973389,36.7830898,Highway_intersection,4.3,20.0,"Loyola House, Menelik Lane, Nairobi"
-Westlands,Yaya Centre Exchange Bureau,-1.2927252,36.7871238,Highway_intersection,4.0,34.0,"PQ4P+WR5, Nairobi"
-Westlands,Momoviez,-1.300545,36.787179,Highway_intersection,5.0,1.0,Kilimani Msapo Close Mayfair Business Centre
-Westlands,Kenya Institute of Supplies Management (KISM),-1.3000612,36.7846638,Highway_intersection,4.5,199.0,"KISM TOWERS , Ngong Road"
-Westlands,Equity Bank opposite Yaya,-1.2924283,36.786668,Highway_intersection,3.6,45.0,"PQ5P+2MF, Opposite Yaya Centre, Kilimani, Argwings Kodhek Road, Nairobi"
-Westlands,EIM Solutions Ltd,-1.297987,36.78029799999999,Highway_intersection,4.7,18.0,"Elgeyo Marakwet Close, Off Elgeyo Marakwet Road, Ngong Road, Nairobi City"
-Westlands,REXE Roofing Products Ltd,-1.2955327,36.78536309999999,Highway_intersection,4.8,170.0,"Taranaki Court, Off Chania Avenue, Nairobi"
-Westlands,Free Pentecostal Fellowship of Kenya guest house,-1.2979762,36.7853097,Highway_intersection,4.1,72.0,"Kindaruma Road, Nairobi"
-Westlands,Mothersmile Dental Care,-1.2993183,36.7821449,Highway_intersection,4.9,70.0,Junction Of Ngong Roads & Kirichwa Road Ngong Rd Adams Arcade Dagoretti South
-Westlands,Maxlife Courrier Services,-1.3006711,36.7818913,Highway_intersection,,,"MQXJ+PQJ, Kirichwa Lane, Nairobi"
-Westlands,"Riena Kids Salon, Spa and Barbershop",-1.30039,36.78209209999999,Highway_intersection,5.0,7.0,"MQXJ+RRW, Kirichwa Lane, Ngong Road, Nairobi"
-Westlands,"Skybikes Shop,Kenya",-1.2951136,36.7859526,Highway_intersection,1.0,1.0,"Chania Court, 42 Chania Avenue, Nairobi"
-Westlands,Good Shepherd Africa Gospel Church,-1.299068,36.78947000000001,Highway_intersection,4.6,291.0,"Ngong Road, North"
-Westlands,Kenya Community Development Foundation (KCDF),-1.2991187,36.7834293,Highway_intersection,4.1,66.0,"Morning Side Office Park, Nairobi"
-Westlands,Leighton Tracking Ltd,-1.300006,36.78004099999999,Highway_intersection,,,"Kilimani Ngong Road Adams Arcade, Nairobi, Kiambu"
-Westlands,Africa Turnaround Limited,-1.2952673,36.77915719999999,Highway_intersection,5.0,1.0,"Galana Road, Senteu Plaza, 6th Floor, Nairobi"
-Westlands,Avenue Green House Medical Centre,-1.3005062,36.7820277,Highway_intersection,3.8,14.0,"1st Floor, The Greenhouse, Ngong Road, Nairobi"
-Embakasi,Mama Leo's shop,-1.3171149,36.9019279,shopping_mall,3.8,68.0,"MWM2+5Q3, Nairobi"
-Embakasi,Southfield Mall,-1.3285167,36.8904553,shopping_mall,4.4,6671.0,"Airport North Road, P.O.Box 18628-00500, Nairobi, Kenya, Eastern Bypass, Nairobi"
-Embakasi,Gateway Mall,-1.3642102,36.9117918,shopping_mall,4.1,12405.0,"JWP6+8P7, Airport Road+Mombasa Road, Nairobi"
-Embakasi,"Capital shopping Mall, Utawala road",-1.2839083,36.9728131,shopping_mall,4.0,749.0,"PX8F+C4P, Nairobi"
-Embakasi,Muiri Syokia Duplets,-1.3631258,36.94792470000001,shopping_mall,4.2,13.0,Katani Road
-Embakasi,Syokimart,-1.371765,36.9355983,shopping_mall,3.9,598.0,Katani Road
-Embakasi,Good Testimony Parking,-1.3103916,36.90792020000001,parking,5.0,1.0,"MWQ5+R5V, Nairobi City"
-Embakasi,Fedha Garage,-1.3083998,36.9116934,parking,5.0,1.0,"MWR6+JMW, Embakasi Road, Nairobi"
-Embakasi,Cizco academy,-1.2942068,36.90355699999999,parking,4.0,1.0,"PW43+793, Nairobi"
-Embakasi,Embakasi police parking,-1.3093539,36.9135824,parking,5.0,1.0,"MWR7+7C4, Nairobi City"
-Embakasi,PCEA Embakasi Parish HQ,-1.3041571,36.91562089999999,parking,4.0,1.0,"MWW8+86Q, Nairobi"
-Embakasi,Parking Lot,-1.295351,36.89638669999999,parking,2.0,1.0,"PV3W+VH2, Nairobi City"
-Embakasi,Church Parking,-1.3092868,36.9141644,parking,,,"MWR7+7MM, Nairobi City"
-Embakasi,Automan Garage,-1.2937437,36.89712420000001,parking,4.9,9.0,"PV4W+FV, Nairobi"
-Embakasi,College Parking,-1.3150896,36.9041222,parking,3.7,3.0,"MWM3+XJ9, Nairobi"
-Embakasi,Greenspan Mall safaricom,-1.2893913,36.9023011,parking,4.3,370.0,"PW62+6WV, Nairobi"
-Embakasi,Juja Blocks Workshop,-1.3186038,36.9041527,parking,3.4,17.0,"MWJ3+HM2, Nairobi"
-Embakasi,Kisasa Auto Garage And Spare Parts,-1.3049778,36.88913149999999,parking,,,Oilcom Petrol Station Donholm Upper Savanna Embakasi East
-Embakasi,Kings International bodaboda stage,-1.3178382,36.8985989,parking,,,"MVJX+VC9, Nairobi"
-Embakasi,TelAviv Auto Wash and Carpet Cleaners,-1.319315,36.901358,parking,5.0,1.0,3802
-Embakasi,fedha total station garage,-1.3180057,36.89670590000001,parking,4.2,11.0,"MVJW+QMW, Outer Ring Road, Nairobi"
-Embakasi,Jeshurun Motorbike Spares & Garage,-1.287894,36.89628939999999,parking,,,"Umoja II, Manyanja Rd/Harambee Sacco Estate, Manyanja Road"
-Embakasi,Club Parking,-1.3199014,36.90009909999999,parking,5.0,1.0,"MWJ2+22Q, Nairobi"
-Embakasi,Connections Parking,-1.3202059,36.8998307,parking,,,"MVHX+WW8, Nairobi"
-Embakasi,Donholm Heights bus stop,-1.2977724,36.887002,parking,,,"PV2P+VRR, Nairobi"
-Embakasi,Church Parking,-1.291818,36.8897138,parking,5.0,1.0,"PV5Q+7VG, Nairobi City"
-Embakasi,Dallas Motors,-1.2868615,36.8951875,parking,3.5,18.0,"PV7W+733, Near Sango Stage, Moi Drive, Nairobi"
-Embakasi,Everest Enterprises parking,-1.3210854,36.8990529,parking,,,"MVHX+HJ7, Nairobi"
-Embakasi,Superhouse Parking,-1.294478,36.88784439999999,parking,,,"PV4Q+645, Manyaja Road, Nairobi City"
-Embakasi,Ace Freight Centre,-1.3226442,36.897332,parking,4.4,5.0,"Tajmall Round About, Nairobi"
-Embakasi,Umoja 2 Parking,-1.2814827,36.9006648,parking,3.3,7.0,"Umoja 2 Estate, Next To The Basketball Court, Off Moi Drive, Nairobi"
-Embakasi,Tena Garage,-1.2922938,36.8847213,parking,,,Nairobi
-Embakasi,Auto Care Garage,-1.2804753,36.8960782,parking,,,"PV9W+RC4, Moi Drive, Nairobi"
-Embakasi,Big Rig Transporters,-1.3271596,36.90020329999999,parking,4.2,12.0,"Off Airport South Road, Nairobi"
-Embakasi,kitindo parking,-1.3264565,36.8955392,parking,5.0,1.0,"MVFW+C67, Airport North Road, Nairobi"
-Embakasi,Parking Lot,-1.2799595,36.9154646,parking,,,"PWC8+258, Nairobi City"
-Embakasi,Parking Coop Bank,-1.3267871,36.8947376,parking,2.8,6.0,"MVFV+7VQ, Airport North Road, Nairobi"
-Embakasi,Parking,-1.2921055,36.8814173,parking,3.5,2.0,"PV5J+5H3, Nairobi City"
-Embakasi,White House Parking Lot,-1.2788328,36.91350189999999,parking,4.5,2.0,"PWC7+FC6, Nairobi City"
-Embakasi,Rubis Athi River Service Station,-1.452121,36.968669,gas_station,3.9,78.0,"A104, Athi River"
-Embakasi,Ainushamsi Energy Kangundo Station,-1.2807485,37.0572481,gas_station,3.6,15.0,"P394+PV5, Kangundo Road, Koma Market"
-Embakasi,Home Matt,-1.3087088,36.9025075,bus_station,,,Kenya
-Embakasi,Complex,-1.3104469,36.9002813,bus_station,4.0,1.0,Kenya
-Embakasi,Standard Drive,-1.3110155,36.8995732,bus_station,,,Kenya
-Embakasi,Church Road,-1.3118631,36.89915480000001,bus_station,,,Kenya
-Embakasi,JackNice,-1.3121328,36.8990341,bus_station,,,Kenya
-Embakasi,JackNyce,-1.3122386,36.89892950000001,bus_station,,,Kenya
-Embakasi,Oyster,-1.292991,36.8984038,bus_station,,,Kenya
-Embakasi,Embakasi,-1.3100016,36.9143683,bus_station,,,Kenya
-Embakasi,Car Wash,-1.2914407,36.9012523,bus_station,,,Kenya
-Embakasi,Avenue Park 2,-1.3112354,36.89221859999999,bus_station,,,Kenya
-Embakasi,Pefa,-1.2994874,36.889987,bus_station,,,Kenya
-Embakasi,Stage mpya,-1.3126317,36.8927738,bus_station,,,Kenya
-Embakasi,Tumaini/Tassia,-1.3092935,36.89069509999999,bus_station,,,Kenya
-Embakasi,Kware,-1.3073409,36.8896115,bus_station,3.4,5.0,Kenya
-Embakasi,Avenue Park 1,-1.3150764,36.8946111,bus_station,,,Kenya
-Embakasi,Fedha,-1.3144273,36.8938118,bus_station,,,Kenya
-Embakasi,Pipeline,-1.3165408,36.8951932,bus_station,,,Kenya
-Embakasi,Aviation,-1.3192874,36.907475,bus_station,,,Kenya
-Embakasi,Pipeline,-1.3165945,36.89512070000001,bus_station,5.0,1.0,Kenya
-Embakasi,Pipeline,-1.3173417,36.8956304,bus_station,,,Kenya
-Embakasi,Caltex/Total,-1.3013756,36.88779559999999,bus_station,,,Kenya
-Embakasi,Aviation,-1.3199365,36.90660059999999,bus_station,,,Kenya
-Embakasi,Manyanja Road Car Wash,-1.2898598,36.8939888,bus_station,5.0,1.0,Kenya
-Embakasi,Pipeline,-1.3177294,36.8958396,bus_station,4.4,5.0,Kenya
-Embakasi,Fedha Total,-1.3178797,36.8958986,bus_station,4.5,2.0,Kenya
-Embakasi,Tena,-1.2917733,36.8914408,bus_station,,,Kenya
-Embakasi,Chemist,-1.3192552,36.8968776,bus_station,,,Kenya
-Embakasi,Spinners,-1.319207,36.8967622,bus_station,,,Kenya
-Embakasi,Elim,-1.2932324,36.8896034,bus_station,,,Kenya
-Embakasi,Elim,-1.2932608,36.8895847,bus_station,,,Kenya
-Embakasi,Bata,-1.3196146,36.89744889999999,bus_station,4.0,1.0,Kenya
-Embakasi,Elim,-1.2931788,36.8895793,bus_station,,,Kenya
-Embakasi,Donholm,-1.2988919,36.88677370000001,bus_station,5.0,1.0,Kenya
-Embakasi,Bata,-1.320135,36.8974274,bus_station,,,Kenya
-Embakasi,Park Inn,-1.3203335,36.8979156,bus_station,,,Kenya
-Embakasi,Donholm,-1.2989509,36.88656449999999,bus_station,,,Kenya
-Embakasi,Joy Gardens,-1.2904537,36.89104379999999,bus_station,4.0,2.0,Kenya
-Embakasi,Donholm,-1.2988061,36.8865269,bus_station,,,Kenya
-Embakasi,Car Wash,-1.2852961,36.8991762,bus_station,,,Kenya
-Embakasi,Donholm Naivas,-1.2969393,36.88688099999999,bus_station,4.8,10.0,Kenya
-Embakasi,Kobil,-1.3209128,36.8982697,bus_station,,,Kenya
-Embakasi,Kobil,-1.3209558,36.89830180000001,bus_station,,,Kenya
-Embakasi,Car Wash,-1.2846294,36.90018209999999,bus_station,,,Kenya
-Embakasi,Connection,-1.3212347,36.8981838,bus_station,,,Kenya
-Embakasi,Manyanja,-1.2944019,36.8874174,bus_station,,,Kenya
-Embakasi,Manyanja,-1.2949491,36.8871009,bus_station,,,Kenya
-Embakasi,Sango,-1.2865537,36.8943268,bus_station,,,Kenya
-Embakasi,Donholm Stage,-1.2955391,36.8864679,bus_station,,,Kenya
-Embakasi,Donholm Stage,-1.2952226,36.88659939999999,bus_station,,,Kenya
-Embakasi,Donholm,-1.2965798,36.8860549,bus_station,5.0,2.0,Kenya
-Embakasi,Elim,-1.2951529,36.88661809999999,bus_station,,,Kenya
-Embakasi,Donholm,-1.2966549,36.8859529,bus_station,,,Kenya
-Embakasi,Donholm,-1.2966657,36.8858779,bus_station,,,Kenya
-Embakasi,Kemsa Depot,-1.3166966,36.9193384,bus_station,4.4,5.0,"Airport North Road, Nairobi"
-Embakasi,Tuskys,-1.3178658,36.9182897,bus_station,5.0,1.0,Kenya
-Embakasi,Tuskys,-1.3177708,36.918464,bus_station,,,Kenya
-Embakasi,Jesca,-1.2879324,36.89123149999999,bus_station,3.5,4.0,Kenya
-Embakasi,Tuskys,-1.3174152,36.9190407,bus_station,,,Kenya
-Embakasi,Bee Centre,-1.2827733,36.9028965,bus_station,5.0,1.0,Kenya
-Embakasi,Bee Center,-1.2827894,36.90260679999999,bus_station,,,Kenya
-Embakasi,Emerald Homestay,-1.3108325,36.9074991,Highway_intersection,4.3,14.0,"MWQ4+MX9, Nyayo Estate Gate A, Fanaka Close, Nairobi"
-Embakasi,Francy's Place Near Airport,-1.307228,36.9072866,Highway_intersection,,,"297 house, 72 Airport North Road, Nairobi"
-Embakasi,Kwetu Apartment,-1.3116015,36.9067733,Highway_intersection,5.0,2.0,Embakasi Road FAHARI ROAD
-Embakasi,Mwatate Community Healthcare Centre,-1.309075,36.89250990000001,Highway_intersection,4.4,8.0,"Kwa Njenga, Nairobi City"
-Embakasi,Grace Furnished Apartment,-1.3044706,36.9082366,Highway_intersection,,,Nairobi
-Embakasi,Premier Homestay,-1.3043432,36.9084402,Highway_intersection,2.8,5.0,Nairobi
-Embakasi,Zuri's BnB,-1.3090985,36.9135159,Highway_intersection,5.0,1.0,"Airport North Road Abadare 10, 2nd floor, Airview Apartments, next to Embakasi police station., Embakasi"
-Embakasi,Tassia Hill High School,-1.3064066,36.8972375,Highway_intersection,4.1,20.0,"MVVW+CVQ, Nairobi"
-Embakasi,Bharti Kenya Limited,-1.3012208,36.9079363,Highway_intersection,,,"MWX5+G57, Near Tnt, Nairobi City"
-Embakasi,Alex Tiles Show Kariobangi,-1.3010922,36.9123572,Highway_intersection,5.0,1.0,"MWX6+HW9, Embakasi constituency, Kariobangi, Nairobi"
-Embakasi,Clinix Healthcare Embakasi,-1.3098419,36.9123003,Highway_intersection,,,Nairobi City
-Embakasi,Kenya Expresso Tours & Safaris,-1.3118525,36.9077655,Highway_intersection,4.5,28.0,"Karibu Road, Court, Airport North Road, Nairobi"
-Embakasi,German - African Tour & Safari Guide,-1.3001375,36.90823669999999,Highway_intersection,,,"MWX5+W7X, Nairobi"
-Embakasi,Star Tour Guides Ltd,-1.3012906,36.9109887,Highway_intersection,5.0,2.0,"MWX6+F9Q, Nairobi"
-Embakasi,Munjaltech Games Arcade,-1.3069003,36.89920839999999,Highway_intersection,3.5,2.0,"MVVX+6MP, Nairobi"
-Embakasi,Nyayo Estate Gate D,-1.3084703,36.9094957,Highway_intersection,4.3,1492.0,Nairobi City
-Embakasi,Tehillah Salon & Barber Shop,-1.3030539,36.90747529999999,Highway_intersection,2.0,1.0,"Seasons Centre, 1st & 2nd Floor, Opposite Nyayo Estate, Nairobi City"
-Embakasi,Fruitie & Vegges,-1.3072891,36.9078022,Highway_intersection,,,"MWV5+34M, Nairobi"
-Embakasi,Mihango,-1.2770102,36.9699895,Highway_intersection,,,Mihango
-Embakasi,Shikanga_Nbi,-1.3062221,36.9081869,Highway_intersection,3.8,16.0,"MWV5+G77, Nairobi"
-Embakasi,Aviators Business Park Tassia,-1.3078274,36.9035321,Highway_intersection,3.8,206.0,"MWR3+VC7, Nyayo estate Gate B, bus stage, Fedha Road, Nairobi"
-Embakasi,M-Pesa Generations Insight,-1.3072985,36.9084173,Highway_intersection,,,"Nyayo Estate, Embakasi Village"
-Embakasi,M-Pesa Apua Associate Ltd,-1.3072985,36.9084173,Highway_intersection,1.0,1.0,Opposite Nyayo Estate Embakasi Village Nairobi KE
-Embakasi,Xzylent Media Kenya,-1.3072977,36.9084478,Highway_intersection,4.3,3.0,"Gate B, Fedha Road, Nairobi"
-Embakasi,ZICNET GROUP LLC,-1.3020982,36.9103509,Highway_intersection,5.0,9.0,Nairobi
-Embakasi,Eds Design Collections,-1.3061039,36.8995169,Highway_intersection,4.0,2.0,"MVVX+HR2, Nairobi"
-Embakasi,Better Homes Services,-1.3087431,36.9084459,Highway_intersection,,,"City Center, Nairobi City"
-Embakasi,AMORE STORE KENYA,-1.3085209,36.90900300000001,Highway_intersection,4.3,73.0,"Embakasi Road, Nairobi"
-Embakasi,Eagles Furnished Apartments,-1.308534,36.909156,Highway_intersection,4.8,4.0,"MWR5+HMJ, Nairobi"
-Embakasi,Co-op Kwa Jirani Isabell Karungari Wanjohi,-1.3081771,36.9097891,Highway_intersection,5.0,1.0,"Embakasi (Outlet 2), Nairobi"
-Embakasi,Seasons Airport Hotel,-1.3083535,36.9099865,Highway_intersection,3.9,425.0,"Old, 00100 Airport North Road, Nairobi"
-Embakasi,Glorious Light House,-1.3032373,36.9144326,Highway_intersection,,,"MWW7+PQ3, Nairobi"
-Embakasi,Mambo Car Hire Ltd,-1.2973965,36.90964,Highway_intersection,4.9,19.0,Nairobi
-Embakasi,Viv's Cake Hut,-1.308818,36.91,Highway_intersection,,,"Room 1, Block D, Ground Floor, Seasons Shopping Centre, Nyayo Estate Road, Nairobi"
-Embakasi,M-Pesa Greatphones,-1.3011381,36.91228479999999,Highway_intersection,4.8,4.0,Embakasi
-Embakasi,PesaPoint POS Wabcom Technologies - Embakasi,-1.3037826,36.91250839999999,Highway_intersection,,,"Tuskys, Embakasi, Nairobi"
-Embakasi,Kikwetu Productions,-1.2963532,36.9095561,Highway_intersection,4.1,18.0,"PW35+FR3, Nairobi"
-Embakasi,Jemme & Rkay Beauty Inc.,-1.2924729,36.90012040000001,Highway_intersection,4.0,1.0,"PW52+229, Nairobi"
-Embakasi,Tumaini guest house (tassia Embakasi),-1.3005157,36.9127299,Highway_intersection,4.1,64.0,"Tassia near baraka 15723, Nairobi"
-Embakasi,Parklands Baptist Church Eastgate,-1.3078653,36.9120057,Highway_intersection,4.5,108.0,"MWR6+VR2, Nairobi"
-Embakasi,G-Craft Auto Garage,-1.3080453,36.9118956,Highway_intersection,5.0,8.0,"MWR6+QQJ, Nairobi"
-Embakasi,Cornelius Softwares,-1.3083998,36.9116934,Highway_intersection,,,"MWR6+JMW, Embakasi Road, Nairobi"
-Embakasi,M K Stage Fashions,-1.3068359,36.9142127,Highway_intersection,,,"MWV7+7M8, Mbakasi Constituency,Dadora Matatu Terminus, Opposite Jamia Mosque, Nairobi, Nairobi City"
-Embakasi,Shycole Fruit Corner,-1.3044172,36.91362259999999,Highway_intersection,,,"MWW7+6CQ, Nairobi"
-Embakasi,Tassia Faith Academy,-1.31027,36.8988871,Highway_intersection,3.7,3.0,Nairobi
-Embakasi,East African School Of Aviation,-1.3148379,36.9038668,Highway_intersection,4.5,471.0,"Fedha Road, Nairobi"
-Embakasi,NAIROBI,-1.30855,36.9120988,Highway_intersection,4.4,26.0,"MWR6+HRQ, Embakasi Road, Nairobi"
-Embakasi,wanandege sacco bank,-1.3097949,36.9123043,Highway_intersection,4.4,12.0,"MWR6+3WM, Nairobi"
-Embakasi,Tree House Media,-1.3118505,36.9082749,Highway_intersection,1.0,1.0,"MWQ5+782, Embakasi Road, Nairobi"
-Embakasi,colorado studio enterprise,-1.3087186,36.9123468,Highway_intersection,4.5,13.0,"Airport North Road, Nairobi"
-Embakasi,Lighthouse Chapel International Embakasi East,-1.308233,36.91287829999999,Highway_intersection,5.0,3.0,"MWR7+P52, Embakasi Social Hall, Near Embakasi Police Station, Nairobi"
-Embakasi,Detox International Laboratories,-1.3094811,36.9121913,Highway_intersection,,,"MWR6+6V4, Embakasi Road, Nairobi"
-Embakasi,Phoenix Equipment Limited,-1.3102649,36.89777549999999,Highway_intersection,5.0,3.0,"Solidarity Street, Off Fedha Road, Nairobi"
-Embakasi,"AAR Healthcare, Embakasi Outpatient Centre",-1.3094928,36.9123717,Highway_intersection,3.2,30.0,"Embakasi Wanandege Sacco Building, Nairobi"
-Embakasi,Tight Budget Group,-1.309681,36.9122949,Highway_intersection,4.0,1.0,"wanandege plaza, embakasi, Nairobi City"
-Embakasi,Aerie Gentleman Fashion,-1.309806,36.912229,Highway_intersection,5.0,1.0,"MWR6+3VH, Nairobi"
-Embakasi,Wex Media Ltd,-1.2947142,36.89878629999999,Highway_intersection,4.2,15.0,"Oyster Village, Office Block, 1st, Nairobi"
-Embakasi,Bridal Reflection,-1.2927687,36.9028777,Highway_intersection,4.2,5.0,"75563-00200, Nairobi Kapiti Road, Nairobi City"
-Embakasi,Co-op Kwa Jirani Vicons Kenya Limited,-1.3056,36.9147,Highway_intersection,,,"14 Mubiru Road, Nairobi"
+CBD,Nairobi,-1.2920659,36.8219462,mall,,,Nairobi
+CBD,Sarova Stanley Nairobi - 5 Star Hotel,-1.2842084,36.8228685,mall,4.6,8914.0,"Junction Of Kenyatta Avenue and, Kimathi Street, Nairobi"
+CBD,Nairobi Apartments,-1.2920659,36.82194619999999,mall,4.2,106.0,"Mokhtar Nairobi KE, Dahha Street, Nairobi"
+CBD,Laico Regency,-1.2849312,36.81649889999999,mall,4.2,3201.0,"Nairobi Central Loita St, Uhuru Highway, Nairobi"
+CBD,Hotel Central Park & Conference Center,-1.2849975,36.8277109,mall,4.0,1825.0,Sheikh Karume Rd
+CBD,Hillpark Hotel,-1.3002043,36.82041539999999,mall,4.3,2037.0,"Lower Hill Road, Nairobi"
+CBD,680 Hotel,-1.2855361,36.8206643,mall,4.1,1627.0,"Muindi Mbingu Street, Nairobi"
+CBD,Oakwood Hotel,-1.2841033,36.823441,mall,3.9,110.0,"Elite Hse, Starehe"
+CBD,Nairobi Serena Hotel,-1.2870297,36.8145232,mall,4.7,5731.0,"Kenyatta Avenue, Nairobi"
+CBD,Ambassadeur Hotel,-1.2855752,36.8260672,mall,4.1,3897.0,"PR7G+QC3, Moi Avenue, Nairobi"
+CBD,Kenya Airways,-1.2847831,36.8178624,mall,3.9,232.0,"Barclays Plaza, 11 th Floor"
+CBD,Laury-Ntines Salon,-1.287414,36.82478800000001,mall,,,"Reinsurance Plaza, Aga Khan Walk, Nairobi"
+CBD,Classic Movie House,-1.2872829,36.8283892,mall,,,"PR7H+39J, Nairobi CBD, Mfangano Street, Nairobi City"
+CBD,Mumbu Holding,-1.2847546,36.8245282,mall,4.0,2.0,"Norwich Union House, Off Kimathi Lane, Nairobi"
+CBD,GeoMara @ West Heights Junction Mall,-1.2920659,36.82194619999999,mall,,,Mararo Avenue West Heights B26 9th floor
+CBD,Telecommunications Solution Centre,-1.2841727,36.82376579999999,mall,3.5,8.0,"Old Mutual Building, Kimathi Kimathi Street, Nairobi"
+CBD,Paris Hotel,-1.286387,36.827732,mall,4.0,504.0,"Mfangano Street, Nairobi"
+CBD,GLORIOUS HOTELS/RESTAURANTS DESTINATION,-1.286695,36.816937,mall,,,"27502-00100, Kenya"
+CBD,Arkland hotel * YOHOH,-1.2867322,36.8270136,mall,,,"Roland Ngala Junction, Nairobi"
+CBD,Nairobi Central,-1.2800161,36.8191878,mall,,,Nairobi Central
+CBD,The Technical University Of Kenya,-1.2912589,36.8252937,mall,4.4,1380.0,Haile Selassie Avenue Entrance on Workshop Road
+CBD,CarMax (East Africa) Ltd,-1.2920659,36.82194619999999,mall,4.2,77.0,"Msa Rd, Nairobi"
+CBD,Geminia Insurance Co Ltd - CBD Branch,-1.2908941,36.823204,mall,4.1,30.0,"Agip House, 3rd Floor, P. O. Box 61316, Nairobi"
+CBD,Kenyatta University-City Centre Campus,-1.2913675,36.8227654,mall,4.2,160.0,Starehe
+CBD,Platinum Credit-County,-1.2921098,36.8212145,mall,4.5,2.0,"PR5C+5F4, County Road, Nairobi"
+CBD,M-Pesa National Oil Corporation of Kenya,-1.290864,36.823371,mall,,,"Agip House, Ground Floor, Nairobi Cbd, Nairobi"
+CBD,M-Pesa Tekalu Logistics,-1.2920659,36.82194619999999,mall,,,"Ngecha Shopping Centre, Ngecha, Nairobi"
+CBD,Co-operative Bank - Parliament Road,-1.2914922,36.82182470000001,mall,3.5,4.0,"P.O. Box 5772, Nairobi"
+CBD,Finance Department,-1.2911383,36.8226743,mall,,,Kenya
+CBD,Danitum Property Agency,-1.2925345,36.8223681,mall,,,"Nairobi Central Haile Selassie Avenue Laptrust building, Nairobi"
+CBD,SAFARICOM SHOP JKIA,-1.2915508,36.8224032,mall,3.3,6.0,Jomo Kenyatta International Airport (Lounges Gate 6 and Gate 11
+CBD,M-Pesa Danpharm,-1.2920659,36.82194619999999,mall,,,"Nyamakima,Mololine Stage, Nairobi"
+CBD,AMANI GROCERY,-1.2910186,36.82101100000001,mall,4.0,2.0,"Rhoda Street, Rhoda Nakuru, Close to the Nyokima Mattresses County Lane, Nairobi City"
+CBD,Pillar Technologies,-1.292065,36.821946,mall,3.0,1.0,Kenya
+CBD,Airtel Money Bonacom Ltd,-1.290741,36.821692,mall,,,"Ground Floor, Wing - C, No. W 19, Embassy House, Harambee Avenue, Nairobi"
+CBD,KCB ATM - Haile Selassie,-1.29139,36.82260899999999,mall,5.0,1.0,"Haile Selassie, Nairobi"
+CBD,Public Service Commission Of Kenya,-1.2895832,36.8220329,mall,4.6,92.0,"Harambee Avenue, Nairobi"
+CBD,Aic Dandora Academy,-1.2910525,36.8215563,mall,,,"Komarock Rd Dandora Nairobi Located close to the kpcu Parliament Road, Nairobi City"
+CBD,Accord Tailors & Outfitters,-1.2923504,36.822693,mall,,,"PR5F+334, Nairobi City"
+CBD,Alex Maniki,-1.2917403,36.8211012,mall,5.0,1.0,"nairobi, Kenya County Road, Nairobi"
+CBD,TIMELY RESPONSE LOGISTICS,-1.2927754,36.82235109999999,mall,,,"Nairobi embu centre 1st floor suite8 jansala road opp khodja rlabrut Kenya Station Road, Nairobi"
+CBD,Antiques & Knick Knack,-1.2921627,36.8226112,mall,,,Kenya
+CBD,Tindi Munyasi & Company Advocates,-1.2907777,36.8214153,mall,1.0,1.0,"Embassy House, Parliament Road, Nairobi"
+CBD,Bititec Systems & Suppliers,-1.2908648,36.8233985,mall,4.3,22.0,"Agip House, 1st Floor, Entrance A Nairobi KE, Haile Selassie Avenue, Nairobi"
+CBD,Jesus Is Alive Ministries,-1.2910474,36.8239407,mall,4.5,75.0,"Haile Selassie Avenue, Nairobi"
+CBD,SWANK AFRICAN FASHION,-1.2925971,36.82263139999999,mall,,,Kenya
+CBD,M-Pesa 3G Telecoms,-1.29169,36.822084,mall,,,"Cannon House, Nairobi"
+CBD,PesaPoint ATM KCB - Haile Sellasie,-1.29132,36.822829,mall,,,"Haile Selassie Avenue, Nairobi"
+CBD,Association Of Profesional Societies In East Africa,-1.291505,36.821471,mall,4.3,12.0,"The Professional Centre Starehe, Parliament Road, Nairobi"
+CBD,M-Pesa Jogad Communication Ltd,-1.2920659,36.82194619999999,mall,,,"Kware, Pipeline, Nairobi"
+CBD,Kenya China Organization,-1.2909903,36.8235182,mall,,,"Agip House, Wing B, 1st Floor, Suite No. 106, Haile Selassie Avenue, Nairobi City"
+CBD,Baellery handbags,-1.2931645,36.8222261,mall,3.6,106.0,MFANGANO TRADE CENTER
+CBD,"M-Pesa Kimage Traders,Golf course communication Bureau",-1.2920659,36.82194619999999,mall,,,"Near Line Saba, Ngumo Stage, Nairobi"
+CBD,M-Pesa Generations Electronics,-1.2920659,36.82194619999999,mall,,,"Along Garissa - Nairobi Main Road, Mwingi"
+CBD,M-Pesa Archman holdings,-1.2920659,36.82194619999999,mall,,,"1st Floor, Nhif, Nhif Building, Nairobi"
+CBD,Discount Tours & Travel Ltd,-1.2920659,36.82194619999999,mall,,,"1st Floor, Union Towers"
+CBD,Political Parties Disputes Tribunal,-1.2920659,36.82194619999999,mall,5.0,1.0,Nairobi
+CBD,M-Pesa Bybarwaqwo Communications Ltd,-1.2920659,36.82194619999999,mall,,,"Near Danga Hotel, Ruiru"
+CBD,Postbank Kenyatta Market Branch,-1.2915985,36.8221108,mall,5.0,1.0,"Cannon House, Nairobi"
+CBD,Baylem Ltd,-1.2907562,36.82169659999999,mall,5.0,1.0,"Baylem Limited, at Ngong Road, and, Menelik Road, Nairobi"
+Karen,The Boma Nairobi,-1.3241532,36.8334901,mall,4.5,5107.0,"00100, Bellevue, Off Mombasa Road, 00200-60705 Red Cross Road, Nairobi"
+Karen,Saab Royale Hotel - South C,-1.3141362,36.8282993,mall,4.3,409.0,Ndekwa Ave
+Karen,Upper Hill Hotel,-1.3049302,36.8115641,mall,3.7,338.0,"Off Mawensi Road, Nairobi"
+Karen,Crowne Plaza Hotel,-1.3003408,36.81531299999999,mall,4.5,5195.0,"MRX8+V48, Nairobi"
+Karen,Capital Heights Hotel,-1.303845399999999,36.8101919,mall,4.0,619.0,"Hospital Road, Nairobi"
+Karen,Kenya National Federation of Agricultural Producers,-1.3132018,36.8161404,mall,2.0,1.0,"MRP8+PF6, Nairobi"
+Karen,Bid B&B,-1.3204154,36.82337159999999,mall,,,"5 Star Estate, Nairobi"
+Karen,Fancy Mum & Kids Wear,-1.3164715,36.8342873,mall,,,"MRMM+CP7, Mombasa Road, Nairobi"
+Karen,Varian Inc,-1.3018386,36.8229579,mall,,,"P. O. Box 21610 Masaba Road, Nairobi"
+Karen,Wilson Airport,-1.319185,36.817648,mall,4.3,1879.0,"Wilson Airport, Karen, Langata Road, Nairobi"
+Karen,Mvuli House - B&B,-1.3061394,36.82383,mall,4.0,405.0,"A 109, Nairobi"
+Karen,Milele Hotel,-1.3123438,36.8249974,mall,4.1,630.0,"MRQF+2XJ, Muhoho Avenue, Nairobi"
+Karen,Strathmore Business School,-1.3102143,36.8126046,mall,4.6,110.0,"MRQ7+W29, Ole Sangale Road, Nairobi City"
+Karen,Bellevue Estate,-1.3204067,36.8375636,mall,4.1,59.0,"MRHQ+R2P, Popo Road, Nairobi"
+Karen,Kenyatta National Hospital,-1.3020942,36.8076643,mall,3.9,451.0,"Hospital Road, Nairobi"
+Karen,Summerdale Inn,-1.3077525,36.8212351,mall,4.1,1019.0,"Summerdale Inn, Gandhi Avenue, Nairobi"
+Karen,KARIBU KWETU,-1.3004822,36.82623820000001,mall,,,Mumias - Bungoma Road 249 NAIROBI KE
+Karen,National Park,-1.3569641,36.8465564,mall,,,Mugumoini
+Karen,Amani Counselling Centre & Training Institute,-1.3134616,36.8130867,mall,3.5,39.0,"Raila Odinga Way, Nairobi"
+Karen,Relax Safari Hotel,-1.3126227,36.81912,mall,5.0,2.0,"MRP9+XJ5, Mai Mahiu Road, Mai Mahiu"
+Karen,Ubuntu Place,-1.3085182,36.8134697,mall,,,"MF 30, Madaraka Estate, Ole Sangale Road, Nairobi"
+Karen,Madaraka Guest Apartments,-1.3076606,36.81958909999999,mall,4.3,3.0,"City Centre, Ole-Sangale Link Road, Nairobi"
+Karen,The Management University Of Africa,-1.3283534,36.8292929,mall,4.4,133.0,"South C, Popo Road"
+Karen,Phoenix Aviation,-1.318127,36.8129082,mall,4.8,38.0,"Langata Road, Nairobi"
+Karen,Nairobi West Prison,-1.316377,36.8103663,mall,,,Nairobi
+Karen,Interstates Cargo Courier,-1.3169514,36.8151102,mall,,,"Wilson Business Park, Wilson Airport, 2 Langata Road, Nairobi City"
+Karen,Gertrude's Children's Hospital - Nairobi West Clinic,-1.3123503,36.8166191,mall,3.2,46.0,Tmall
+Karen,The Nairobi South Hospital,-1.3138048,36.82848860000001,mall,3.5,170.0,"Muhoho Avenue, Nairobi"
+Karen,Ramani Communication Ltd,-1.3166401,36.81423950000001,mall,5.0,1.0,"Wilken House, Wilson Airport, P. O. Box 15353 Langata Road, Nairobi"
+Karen,"Management Science Building, Strathmore University",-1.3108641,36.8143345,mall,4.7,11.0,"MRQ7+MP4, Nairobi"
+Karen,Kenya Industrial Research And Development Institute,-1.3226129,36.8314891,mall,4.6,135.0,South C Nairobi KE
+Karen,"Kikoy Co Ltd, The",-1.3203543,36.81040479999999,mall,4.0,1.0,"Nairobi West Wilson Airport road Titan Hangar, Nairobi"
+Karen,Home Products Limited,-1.3143253,36.8174848,mall,5.0,1.0,"MRP8+7X9, Mai Mahiu Road, Nairobi"
+Karen,Kenya School Of Flying,-1.317545,36.81601200000001,mall,4.7,101.0,"Karen, Langata Road, Nairobi"
+Karen,Silverscreen Pictures,-1.3146498,36.8164127,mall,,,"Kogo Star Plaza, Off Langata Road, Mai Mahiu Road"
+Karen,Z. Boskovic Air Charters,-1.3207462,36.8098018,mall,4.6,65.0,"Wilson Airport, Langata Road, Nairobi"
+Karen,Kenya Water Institute,-1.3154216,36.82430159999999,mall,4.4,230.0,"Ole Shapara Avenue, KEWI"
+Karen,Wilson Business Park,-1.3164304,36.8149817,mall,4.4,585.0,Nairobi City
+Karen,Everett Aviation Ltd,-1.3206248,36.8099754,mall,4.3,10.0,"P.O. Box 40813, Nairobi"
+Karen,Viringa Services,-1.312215,36.8116719,mall,,,"Madaraka Estate, Akila, No. 1 Estate, Suite No. 96, Ole Sangale Link Road, Off Mbagathi Way, Nairobi City"
+Karen,Duncal Properties Ltd,-1.3142625,36.8174769,mall,,,"Nairobi West Off Langata Rd West End Place, Nairobi"
+Karen,M-Pesa windsor golf club,-1.3224253,36.8196442,mall,,,"Ridgeways-Windsor Hotel, Nairobi West, Nairobi"
+Karen,PesaPoint POS Madaraka Caltex Service Station Ltd,-1.308477,36.818667,mall,,,"Langata Road, Madaraka Estate, Nairobi"
+Karen,"Virtual Coaching, Forex Consulting",-1.3106467,36.82503120000001,mall,4.0,4.0,Nairobi
+Karen,Thaeclipse Entertainment,-1.3183289,36.8239725,mall,5.0,2.0,"Rangers Court, Nairobi"
+Karen,Kwetu home of peace,-1.3091097,36.8112346,mall,4.2,38.0,"Ole-Sangale Link Road, Nairobi"
+Karen,CTM Travel Lufthansa City Center,-1.3101057,36.81309100000001,mall,3.9,11.0,"Ole Sangale Rd., Madaraka Estate Strathmore University, Students' Center, 1st Floor. Box 35797 Nairobi KE"
+Karen,Bluesky Aviation,-1.3196911,36.8171087,mall,5.0,1.0,"MRJ8+4RH, Wilson Airport, Langata Road, Mombasa, Nairobi City"
+Karen,Yellow Wings Air Services Ltd,-1.3203284,36.8102614,mall,4.5,66.0,"Lengai House II Wilson Airport, Langata Road, Nairobi"
+Karen,Kenya Archery,-1.3092362,36.81448,mall,5.0,4.0,"Keri Road, Nairobi"
+Karen,M-Pesa Makro Communication,-1.317,36.825,mall,,,"Mitumba Village, South C-Mitumba Slum, Nairobi"
+Karen,Horticultural Ethical Business Initiative,-1.3167981,36.814781,mall,,,"7th Floor, Titan Building, Chaka Road, P. O. Box 27790, Nairobi"
+Karen,Conventual Franciscan Friars,-1.3242174,36.8225176,mall,4.5,4.0,"MRGF+826, Nairobi City"
+Karen,"David Chola, Architect (Adroit Architecture)",-1.3134401,36.8169715,mall,4.8,22.0,"Crystal Building, 2nd Floor Mai Mahiu Road, off Mbagathi Roundabout"
+Karen,PesaPoint POS Rangechem Pharmaceutical - Tmall,-1.312118,36.817127,mall,,,"Tuskys T - Mall, Langata Road, Nairobi"
+Karen,NINETY NINES FLYING SCHOOL,-1.3173461,36.8152224,mall,4.8,53.0,"MRM8+339, Nairobi"
+Karen,DG OASIS,-1.3256515,36.8231682,mall,4.6,36.0,"MRFF+P7M, Muhoho Road, Nairobi"
+Karen,Air Traffic Ltd,-1.3203943,36.81028579999999,mall,4.2,5.0,"Viwandani Langata Rd Lengai Hse, Wilson Airport Makadara"
+Kasarani,Safari Park Hotel & Casino,-1.2267451,36.8828346,mall,4.6,11297.0,Nairobi City
+Kasarani,United States International University Africa,-1.2180945,36.87921389999999,mall,4.6,948.0,"USIU Road, Off Thika Road (Exit 7"
+Kasarani,Mama Nduta,-1.2513727,36.88957449999999,mall,5.0,1.0,Kenya
+Kasarani,The Nest Place,-1.2363331,36.8751359,mall,4.3,12.0,"QV7G+F36, Off Thika superhighway Garden Estate, Thika Road"
+Kasarani,Murphy Chemicals (East Africa) Ltd,-1.2443111,36.88482690000001,mall,4.6,10.0,"Murphy Chemicals E A Premises, Baba Dogo Road, Nairobi"
+Kasarani,"Sai Raj Limited - Baba Dogo Road, Ruaraka",-1.24241,36.88118000000001,mall,4.5,263.0,"Baba Dogo Road, Nairobi"
+Kasarani,A-Plus Motors-Thika Road Branch,-1.2273338,36.88198979999999,mall,4.0,31.0,"Thika Road, Nairobi"
+Kasarani,Regal Pharmaceuticals Ltd,-1.2460403,36.87666979999999,mall,3.9,19.0,"Road 1, off Baba dogo Road"
+Kasarani,In House Decor,-1.2439725,36.8774825,mall,5.0,1.0,"QV4G+CX9, Off Thika Road, Baba Dogo Road, Nairobi City"
+Kasarani,Jah Works Arts Gallery,-1.2370004,36.8718781,mall,4.5,2.0,Umoja 2
+Kasarani,Baba Dogo Primary School,-1.2433996,36.88648309999999,mall,3.2,24.0,"Baba Dogo, P.O Box 10347, Nairobi City"
+Kasarani,The Luke Hotel- NAIROBI,-1.23476,36.8711776,mall,4.1,1513.0,"Garden Estate Road, Off Thika Road, Nairobi"
+Kasarani,Centre for Alternative Technologies Ltd (CAT),-1.2416485,36.87868489999999,mall,4.3,27.0,"Abacus Lane, Baba Dogo Road. 2 Ruaraka Business Park Box 64921, Nairobi"
+Kasarani,The Most Famous Cake Shop,-1.226868,36.8847741,mall,5.0,2.0,"1st Floor, Gothen Building, Close to The Kenya Tents Ltd., Thika Road, Nairobi City"
+Kasarani,BAKPHARM LTD,-1.244614,36.8813094,mall,3.5,4.0,"Kenafric Business Park, Nairobi"
+Kasarani,Mill Bakers Ltd,-1.2476713,36.8824311,mall,4.3,36.0,Nairobi
+Kasarani,JCB Kenya - Ganatra Plant & Equipment Ltd.,-1.2444038,36.8831007,mall,4.3,121.0,Box 31024 Baba Dogo Road
+Kasarani,PesaPoint POS Oil Libya Electro Systems,-1.2434913,36.880434,mall,,,"Baba Dogo Road, Nairobi"
+Kasarani,Survey,-1.2567109,36.8586637,mall,,,Ruaraka
+Kasarani,Elite Trailers Limited,-1.2404054,36.88794660000001,mall,3.7,3.0,"QV4J+J52, baba dodo, Nairobi"
+Kasarani,Oshwal Wholesalers (K) Ltd,-1.2415792,36.8760532,mall,4.1,28.0,"Baba Dogo Road, Nairobi"
+Kasarani,PesaPoint ATM Uchumi Jipange,-1.232015,36.875674,mall,1.0,1.0,"Uchumi Jipange, Thika Road, Garden Estate, Thika Road, Nairobi"
+Kasarani,Airtel Money Stima Expertees,-1.23179,36.875953,mall,5.0,1.0,"Next To Jambo Grill Hotel, Thika Road, Nairobi"
+Kasarani,Mountain View School,-1.223568,36.8779715,mall,4.5,90.0,"Mountain View School, USIU Road, Nairobi"
+Kasarani,East African Foundry Works (K) Ltd,-1.2436829,36.8804292,mall,4.6,21.0,"P.O.Box 48624 Baba Dogo Road, Nairobi"
+Kasarani,PesaPoint POS Acacia Jubilee Insurance - Baba Dogo,-1.244398,36.88408,mall,,,Nairobi
+Kasarani,Radio Waumini,-1.2273364,36.8826474,mall,4.4,152.0,"NATIONAL YOUTH CENTRE, Babadogo THIKA, Nairobi"
+Kasarani,Airtel Money Thome Hardware,-1.228808,36.879665,mall,,,"After Jambo Grill, Forest Road, Nairobi"
+Kasarani,Airtel Money Salama Motors,-1.229784,36.877884,mall,,,"Next To Homeland Hotel, Forest Road, Salama Motors, Nairobi"
+Kasarani,M-Pesa Transport and Lifting Services,-1.2374236,36.8822,mall,,,Kenya
+Kasarani,Mustard Projectors and Communication Services,-1.243278,36.881699,mall,,,"1st Floor, Laichem House, P. O. Box 70924 Baba Dogo Road, Nairobi"
+Kasarani,PesaPoint POS Traron Enterprises - Ngumba,-1.232476,36.883785,mall,,,Nairobi
+Kasarani,Richman Pork Butchery,-1.243294,36.868897,mall,4.2,6.0,"QV49+MHJ, Thika Road, Opposite Nyani House, On Your Way To Isili, Nairobi"
+Kasarani,Narrow Gate Apostolic Ministries,-1.2443533,36.8832493,mall,4.5,4.0,"QV4M+775, Road, Nairobi City"
+Kasarani,Autoshow Ltd,-1.2385936,36.8711056,mall,4.8,6.0,"Along Thika Road, Opposite Roasters INN, Entrace To Kenya Breweries, Nairobi City"
+Kasarani,Hyperteck Electrical Services Ltd,-1.2275145,36.8814659,mall,4.6,25.0,"Thika Road Super Highway.exit 7 Next To Crescent Petrol Station,(just, Before Safari Park Hotel), Post office Box 15537-00100., Nairobi"
+Kasarani,Kenya Seed Company,-1.2444342,36.8842113,mall,4.6,36.0,"Near Ruaraka Police Station, Next To Bank Of Africa, Along Baba Dogo Road, Baba Dogo, Nairobi"
+Kasarani,Harvesters Caterers,-1.2341123,36.874752,mall,4.4,10.0,"P.O Box No. 901, Ruaraka, Thika Road, Nairobi"
+Kasarani,Ngeshngesh,-1.2307261,36.8764742,mall,,,"QV9G+PH5, Thika Road, Nairobi"
+Kasarani,Symo Fresh Milk Distributors,-1.228599,36.8785876,mall,,,"QVCH+HC8, Near Sports View Hotel Junction, Kasarani, Nairobi"
+Kasarani,Future Star Beauty Salon,-1.231079,36.887195,mall,5.0,1.0,"QV9P+HV8, Near Sports View Junction, Nairobi"
+Kasarani,Rampel Designs Ltd,-1.2441275,36.8830997,mall,,,"Baba Dogo Road, Nairobi"
+Kasarani,Dense Gas Logistics & Kerosene,-1.2299237,36.8775254,mall,,,"QVCH+22J, Near Sports Vew Hotel Junction, Kasarani, Nairobi City"
+Kasarani,M-Pesa Top Connection,-1.2333829,36.8851301,mall,,,"Ngumba Estate Opposite Mother Teresa Sisters, Ngumba, Nairobi"
+Kasarani,Ampol Ventures Ltd,-1.234101,36.870722,mall,3.0,3.0,"Victory House, Ground Floor, Nairobi"
+Kasarani,Airtel Money Coach Barbers,-1.23239,36.883742,mall,5.0,1.0,"Ground Floor, Morphic Towers, Gumba Shopping Centre, Forest Road, Nairobi"
+Kasarani,"Team Building in Kenya, Team Building Venues in Kenya, Team Building Companies in Kenya Masai Africa Safaris Ltd, Team Building Kenya, Team Building Trainers in Nairobi, Team Building Trainers in Mombasa, Team Building Venues in Mombasa, Team Building, Trainers in Naivasha,",-1.2326904,36.8736154,mall,5.0,8.0,"3rd Floor, Mountain Mall Naivas, Thika Road, Nairobi"
+Kasarani,L. G. Harris & Co(EA) Ltd.,-1.2410623,36.88786569999999,mall,4.6,20.0,"Baba Dogo Road, Nairobi"
+Kasarani,PesaPoint POS Express Supermarket,-1.2336809,36.884345,mall,,,"Ngumba Market, Ngumba Estate, Nairobi"
+Kasarani,Twilight Movie Libraries,-1.2443251,36.8840875,mall,4.0,1.0,"QV4M+7J8, Nairobi"
+Kasarani,PesaPoint ATM KCB - Kariobangi,-1.245959,36.88304,mall,3.5,2.0,"Rd, Nairobi"
+Kasarani,Orange Pharma Ltd,-1.24351,36.88214249999999,mall,2.5,2.0,"Baba Dogo Road, Nairobi"
+Kasarani,Celah Records,-1.2323036,36.8753193,mall,4.5,2.0,"Mwalimu House Building, 1st Floor, Next To Classic Grill, Uchumi Jipange, Thika Road, Nairobi City"
+Kasarani,PesaPoint POS Lily White Product,-1.244608,36.887025,mall,,,"Baba Dogo Road, Ruaraka"
+Kasarani,Lancom Cultural Center,-1.2270042,36.8821236,mall,,,"QVFJ+5RX, Off, Thika Road, Nairobi City"
+Kasarani,A Flame Of Joy Centre,-1.2437729,36.88040199999999,mall,,,"P. O Box No. 00 CN 818 -184,Located Close To The Ebenezer Chemist, Kariandudu Road Baba Dogo Road, Nairobi City"
+Kasarani,Stanford Beauty Salon,-1.2441897,36.8781853,mall,3.3,3.0,"QV4H+87F, Groundfloor lucky summer, Baba Dogo Road, Nairobi"
+Kasarani,Sufuri Cycles Ltd,-1.2332275,36.8729755,mall,,,"QV8F+P55, Waka Business Centre, Next to Uchumi Jipange Garden Estate, Thika Road, Nairobi City"
+Kasarani,M-Pesa Nomad Transpares Ltd,-1.2456775,36.8814488,mall,,,"Stage 25, Baba Dogo, Baba Dogo Glucola"
+Westlands,Godials Bed and Breakfast,-1.2895815,36.7832421,mall,4.2,44.0,"Kilimani Lenana, Galana Road, Nairobi"
+Westlands,Alata Styles,-1.299171,36.7875407,mall,5.0,1.0,"Kilimani Ngong road Mecky place Dagoreti North, Nairobi"
+Westlands,Truworths,-1.2927472,36.7879772,mall,,,Nairobi
+Westlands,Lexy's Collection,-1.293195,36.7877455,mall,,,"Yaya Centre, Argwings Kodhek Road, Nairobi"
+Westlands,Jamhuri Estate,-1.3000344,36.78088079999999,mall,4.1,601.0,"Ngong Road, Nairobi"
+Westlands,SHAI SUITES,-1.2950895,36.78769279999999,mall,4.2,6.0,"Johari Apartments, Ring Road Kilimani, Nairobi"
+Westlands,The Faraja Vista @Woodley,-1.3046705,36.7789849,mall,,,"Plus Code, Wamagata Road MQWH+9V, Nairobi"
+Westlands,Yaya Centre,-1.2926914,36.78747630000001,mall,4.4,16426.0,"Argwings Kodhek Road, Nairobi"
+Westlands,Steak And Ale Restaurant-Ngong Rd,-1.2983801,36.7899297,mall,3.5,11.0,"Kawangware George Padimore Ln Dundee Court, North"
+Westlands,Bridge Apartment,-1.2909039,36.7804204,mall,4.8,4.0,"PQ5J+J5M, Kirichwa Road, Nairobi"
+Westlands,Wuduria Hotel,-1.3011058,36.7877783,mall,4.2,108.0,"21908-00505 Mugo Kibiru Drive, Nairobi"
+Westlands,Kilimani Central,-1.2986435,36.7905812,mall,5.0,1.0,"Casa Aacacia, Apartments"
+Westlands,Bunkers Bio Centre,-1.3067126,36.78497849999999,mall,4.0,1.0,"MQVM+8X9, Nairobi"
+Westlands,Jamhuri Posta Building,-1.3006587,36.77375979999999,mall,4.1,7.0,"25, Nairobi"
+Westlands,Video One,-1.2931135,36.7880419,mall,2.3,13.0,"Ground Floor, Yaya Centre, Nairobi"
+Westlands,Furnished Apartment Nairobi,-1.2892786,36.78693109999999,mall,5.0,3.0,Nairobi
+Westlands,Anna Purna Guest House,-1.2987991,36.7932169,mall,3.0,1.0,"PQ2V+F7P, Kambur drive off ngong road, Nairobi"
+Westlands,"Britam, Timau Plaza",-1.29223,36.789787,mall,5.0,3.0,"Timau Plaza, Nairobi"
+Westlands,Golf Course,-1.3053436,36.79541469999999,mall,,,Golf Course
+Westlands,Kilima Cha Alfajiri,-1.2944428,36.78320739999999,mall,3.7,3.0,"Menelik Road No 7 Floor 7 Yaya Brooks, Nairobi"
+Westlands,"Fully Furnished Apartment, Kilimani",-1.294338,36.78178310000001,mall,4.0,1.0,"sapphire court apartment, Kirichwa Road, Nairobi"
+Westlands,Golden Moon Star Hotel,-1.299256,36.77715999999999,mall,3.6,8.0,"Golden Moon Star Hotel, Ngong Road, Nairobi"
+Westlands,"Gemina Court - Serviced apartments Nairobi, Kilimani",-1.2961353,36.7896277,mall,4.1,19.0,"Gemina Court, George Padmore Road, Nairobi"
+Westlands,Stunning rooms in Nairobi,-1.2925399,36.7887548,mall,4.0,1.0,"Argwings Kodhek Road 3 Stock, Nairobi"
+Westlands,East African Educational Publishers Ltd.,-1.2952673,36.77915719999999,mall,4.2,27.0,"Elgeyo Marakwet North, Nairobi"
+Westlands,PesaPoint POS Arata Services - Prestige Plaza,-1.300695,36.787258,mall,,,"Prestige Plaza, Woodley Estate, Nairobi"
+Westlands,Crowe Erastus & Co,-1.2994725,36.78352999999999,mall,4.6,21.0,"Morning Side Office Park, 2nd Floor (Wing B), City Square,, Ngong Road, Nairobi"
+Westlands,Menelik Medical Centre,-1.296924,36.7838012,mall,3.6,38.0,"PQ3M+6GM, Menelik Road, Nairobi"
+Westlands,New Trafford Serviced Apartments,-1.2988534,36.7822785,mall,4.3,8.0,"Corner Of Kilimani Road, Kirichwa Road, Opposite Nairobi Womens Hospital Nairobi City KE"
+Westlands,Silver Bird,-1.3007382,36.7870116,mall,,,Kenya
+Westlands,Rochman Properties Limited,-1.2991667,36.7835495,mall,4.5,30.0,"Morning Side Office Park, Ngong Road, Nairobi"
+Westlands,Ecotact,-1.2941138,36.7843113,mall,4.6,5.0,"PQ4M+9P3, Eco house, Off Ngong Road,, Menelik Road, Nairobi"
+Westlands,Association Of Consulting Engineers Of Kenya,-1.2982931,36.78670529999999,mall,4.9,8.0,"Commodore Office Suites, Kindaruma Road, Nairobi"
+Westlands,Faulu Kenya,-1.3004961,36.7850824,mall,4.2,15.0,"Off Ngong Road, City square, Ngong Lane, Nairobi"
+Westlands,Centre For Tropical & Travel Medicine,-1.299456,36.782331,mall,4.3,32.0,"Adams Arcade, Kirichwa Road, Ngong"
+Westlands,CGTN Africa,-1.2905759,36.78571139999999,mall,4.4,22.0,"PQ5P+Q78, Nairobi"
+Westlands,Lords Limited,-1.3007543,36.781674,mall,5.0,1.0,"Ground Floor, The Greenhouse Ngong Road, Nairobi City"
+Westlands,Jayelle Styles,-1.300427,36.781786,mall,2.5,2.0,"MQXJ+RPF, Ngong Road, Adams Archade, The Green House, Nairobi"
+Westlands,Indulge Nail and Beauty Lounge,-1.2938225,36.7815962,mall,3.0,1.0,"PQ4J+FJH, Kirichwa Road, Nairobi"
+Westlands,M-Pesa K-REP Bank,-1.2951482,36.7862973,mall,,,"Wood Avenue, Nairobi"
+Westlands,Islamic Relief Kenya Somalia Programme,-1.2982289,36.7821484,mall,4.3,20.0,"PQ2J+PV2, Kirichwa Road, Nairobi"
+Westlands,Training Solutions Limited,-1.2921502,36.785463,mall,,,"PQ5P+45P, Wood Avenue, Nairobi City"
+Westlands,Jesuits Of Eastern Africa,-1.2973389,36.7830898,mall,4.3,20.0,"Loyola House, Menelik Lane, Nairobi"
+Westlands,Yaya Centre Exchange Bureau,-1.2927252,36.7871238,mall,4.0,34.0,"PQ4P+WR5, Nairobi"
+Westlands,Momoviez,-1.300545,36.787179,mall,5.0,1.0,Kilimani Msapo Close Mayfair Business Centre
+Westlands,Kenya Institute of Supplies Management (KISM),-1.3000612,36.7846638,mall,4.5,199.0,"KISM TOWERS , Ngong Road"
+Westlands,Equity Bank opposite Yaya,-1.2924283,36.786668,mall,3.6,45.0,"PQ5P+2MF, Opposite Yaya Centre, Kilimani, Argwings Kodhek Road, Nairobi"
+Westlands,EIM Solutions Ltd,-1.297987,36.78029799999999,mall,4.7,18.0,"Elgeyo Marakwet Close, Off Elgeyo Marakwet Road, Ngong Road, Nairobi City"
+Westlands,REXE Roofing Products Ltd,-1.2955327,36.78536309999999,mall,4.8,170.0,"Taranaki Court, Off Chania Avenue, Nairobi"
+Westlands,Free Pentecostal Fellowship of Kenya guest house,-1.2979762,36.7853097,mall,4.1,72.0,"Kindaruma Road, Nairobi"
+Westlands,Mothersmile Dental Care,-1.2993183,36.7821449,mall,4.9,70.0,Junction Of Ngong Roads & Kirichwa Road Ngong Rd Adams Arcade Dagoretti South
+Westlands,Maxlife Courrier Services,-1.3006711,36.7818913,mall,,,"MQXJ+PQJ, Kirichwa Lane, Nairobi"
+Westlands,"Riena Kids Salon, Spa and Barbershop",-1.30039,36.78209209999999,mall,5.0,7.0,"MQXJ+RRW, Kirichwa Lane, Ngong Road, Nairobi"
+Westlands,"Skybikes Shop,Kenya",-1.2951136,36.7859526,mall,1.0,1.0,"Chania Court, 42 Chania Avenue, Nairobi"
+Westlands,Good Shepherd Africa Gospel Church,-1.299068,36.78947000000001,mall,4.6,291.0,"Ngong Road, North"
+Westlands,Kenya Community Development Foundation (KCDF),-1.2991187,36.7834293,mall,4.1,66.0,"Morning Side Office Park, Nairobi"
+Westlands,Leighton Tracking Ltd,-1.300006,36.78004099999999,mall,,,"Kilimani Ngong Road Adams Arcade, Nairobi, Kiambu"
+Westlands,Africa Turnaround Limited,-1.2952673,36.77915719999999,mall,5.0,1.0,"Galana Road, Senteu Plaza, 6th Floor, Nairobi"
+Westlands,Avenue Green House Medical Centre,-1.3005062,36.7820277,mall,3.8,14.0,"1st Floor, The Greenhouse, Ngong Road, Nairobi"
+Embakasi,Emerald Homestay,-1.3108325,36.9074991,mall,4.3,14.0,"MWQ4+MX9, Nyayo Estate Gate A, Fanaka Close, Nairobi"
+Embakasi,Francy's Place Near Airport,-1.307228,36.9072866,mall,,,"297 house, 72 Airport North Road, Nairobi"
+Embakasi,Kwetu Apartment,-1.3116015,36.9067733,mall,5.0,2.0,Embakasi Road FAHARI ROAD
+Embakasi,Mwatate Community Healthcare Centre,-1.309075,36.89250990000001,mall,4.4,8.0,"Kwa Njenga, Nairobi City"
+Embakasi,Grace Furnished Apartment,-1.3044706,36.9082366,mall,,,Nairobi
+Embakasi,Premier Homestay,-1.3043432,36.9084402,mall,2.8,5.0,Nairobi
+Embakasi,Zuri's BnB,-1.3090985,36.9135159,mall,5.0,1.0,"Airport North Road Abadare 10, 2nd floor, Airview Apartments, next to Embakasi police station., Embakasi"
+Embakasi,Tassia Hill High School,-1.3064066,36.8972375,mall,4.1,20.0,"MVVW+CVQ, Nairobi"
+Embakasi,Bharti Kenya Limited,-1.3012208,36.9079363,mall,,,"MWX5+G57, Near Tnt, Nairobi City"
+Embakasi,Alex Tiles Show Kariobangi,-1.3010922,36.9123572,mall,5.0,1.0,"MWX6+HW9, Embakasi constituency, Kariobangi, Nairobi"
+Embakasi,Clinix Healthcare Embakasi,-1.3098419,36.9123003,mall,,,Nairobi City
+Embakasi,Kenya Expresso Tours & Safaris,-1.3118525,36.9077655,mall,4.5,28.0,"Karibu Road, Court, Airport North Road, Nairobi"
+Embakasi,German - African Tour & Safari Guide,-1.3001375,36.90823669999999,mall,,,"MWX5+W7X, Nairobi"
+Embakasi,Star Tour Guides Ltd,-1.3012906,36.9109887,mall,5.0,2.0,"MWX6+F9Q, Nairobi"
+Embakasi,Munjaltech Games Arcade,-1.3069003,36.89920839999999,mall,3.5,2.0,"MVVX+6MP, Nairobi"
+Embakasi,Nyayo Estate Gate D,-1.3084703,36.9094957,mall,4.3,1492.0,Nairobi City
+Embakasi,Tehillah Salon & Barber Shop,-1.3030539,36.90747529999999,mall,2.0,1.0,"Seasons Centre, 1st & 2nd Floor, Opposite Nyayo Estate, Nairobi City"
+Embakasi,Fruitie & Vegges,-1.3072891,36.9078022,mall,,,"MWV5+34M, Nairobi"
+Embakasi,Mihango,-1.2770102,36.9699895,mall,,,Mihango
+Embakasi,Shikanga_Nbi,-1.3062221,36.9081869,mall,3.8,16.0,"MWV5+G77, Nairobi"
+Embakasi,Aviators Business Park Tassia,-1.3078274,36.9035321,mall,3.8,206.0,"MWR3+VC7, Nyayo estate Gate B, bus stage, Fedha Road, Nairobi"
+Embakasi,M-Pesa Generations Insight,-1.3072985,36.9084173,mall,,,"Nyayo Estate, Embakasi Village"
+Embakasi,M-Pesa Apua Associate Ltd,-1.3072985,36.9084173,mall,1.0,1.0,Opposite Nyayo Estate Embakasi Village Nairobi KE
+Embakasi,Xzylent Media Kenya,-1.3072977,36.9084478,mall,4.3,3.0,"Gate B, Fedha Road, Nairobi"
+Embakasi,ZICNET GROUP LLC,-1.3020982,36.9103509,mall,5.0,9.0,Nairobi
+Embakasi,Eds Design Collections,-1.3061039,36.8995169,mall,4.0,2.0,"MVVX+HR2, Nairobi"
+Embakasi,Better Homes Services,-1.3087431,36.9084459,mall,,,"City Center, Nairobi City"
+Embakasi,AMORE STORE KENYA,-1.3085209,36.90900300000001,mall,4.3,73.0,"Embakasi Road, Nairobi"
+Embakasi,Eagles Furnished Apartments,-1.308534,36.909156,mall,4.8,4.0,"MWR5+HMJ, Nairobi"
+Embakasi,Co-op Kwa Jirani Isabell Karungari Wanjohi,-1.3081771,36.9097891,mall,5.0,1.0,"Embakasi (Outlet 2), Nairobi"
+Embakasi,Seasons Airport Hotel,-1.3083535,36.9099865,mall,3.9,425.0,"Old, 00100 Airport North Road, Nairobi"
+Embakasi,Glorious Light House,-1.3032373,36.9144326,mall,,,"MWW7+PQ3, Nairobi"
+Embakasi,Mambo Car Hire Ltd,-1.2973965,36.90964,mall,4.9,19.0,Nairobi
+Embakasi,Viv's Cake Hut,-1.308818,36.91,mall,,,"Room 1, Block D, Ground Floor, Seasons Shopping Centre, Nyayo Estate Road, Nairobi"
+Embakasi,M-Pesa Greatphones,-1.3011381,36.91228479999999,mall,4.8,4.0,Embakasi
+Embakasi,PesaPoint POS Wabcom Technologies - Embakasi,-1.3037826,36.91250839999999,mall,,,"Tuskys, Embakasi, Nairobi"
+Embakasi,Kikwetu Productions,-1.2963532,36.9095561,mall,4.1,18.0,"PW35+FR3, Nairobi"
+Embakasi,Jemme & Rkay Beauty Inc.,-1.2924729,36.90012040000001,mall,4.0,1.0,"PW52+229, Nairobi"
+Embakasi,Tumaini guest house (tassia Embakasi),-1.3005157,36.9127299,mall,4.1,64.0,"Tassia near baraka 15723, Nairobi"
+Embakasi,Parklands Baptist Church Eastgate,-1.3078653,36.9120057,mall,4.5,108.0,"MWR6+VR2, Nairobi"
+Embakasi,G-Craft Auto Garage,-1.3080453,36.9118956,mall,5.0,8.0,"MWR6+QQJ, Nairobi"
+Embakasi,Cornelius Softwares,-1.3083998,36.9116934,mall,,,"MWR6+JMW, Embakasi Road, Nairobi"
+Embakasi,M K Stage Fashions,-1.3068359,36.9142127,mall,,,"MWV7+7M8, Mbakasi Constituency,Dadora Matatu Terminus, Opposite Jamia Mosque, Nairobi, Nairobi City"
+Embakasi,Shycole Fruit Corner,-1.3044172,36.91362259999999,mall,,,"MWW7+6CQ, Nairobi"
+Embakasi,Tassia Faith Academy,-1.31027,36.8988871,mall,3.7,3.0,Nairobi
+Embakasi,East African School Of Aviation,-1.3148379,36.9038668,mall,4.5,471.0,"Fedha Road, Nairobi"
+Embakasi,NAIROBI,-1.30855,36.9120988,mall,4.4,26.0,"MWR6+HRQ, Embakasi Road, Nairobi"
+Embakasi,wanandege sacco bank,-1.3097949,36.9123043,mall,4.4,12.0,"MWR6+3WM, Nairobi"
+Embakasi,Tree House Media,-1.3118505,36.9082749,mall,1.0,1.0,"MWQ5+782, Embakasi Road, Nairobi"
+Embakasi,colorado studio enterprise,-1.3087186,36.9123468,mall,4.5,13.0,"Airport North Road, Nairobi"
+Embakasi,Lighthouse Chapel International Embakasi East,-1.308233,36.91287829999999,mall,5.0,3.0,"MWR7+P52, Embakasi Social Hall, Near Embakasi Police Station, Nairobi"
+Embakasi,Detox International Laboratories,-1.3094811,36.9121913,mall,,,"MWR6+6V4, Embakasi Road, Nairobi"
+Embakasi,Phoenix Equipment Limited,-1.3102649,36.89777549999999,mall,5.0,3.0,"Solidarity Street, Off Fedha Road, Nairobi"
+Embakasi,"AAR Healthcare, Embakasi Outpatient Centre",-1.3094928,36.9123717,mall,3.2,30.0,"Embakasi Wanandege Sacco Building, Nairobi"
+Embakasi,Tight Budget Group,-1.309681,36.9122949,mall,4.0,1.0,"wanandege plaza, embakasi, Nairobi City"
+Embakasi,Aerie Gentleman Fashion,-1.309806,36.912229,mall,5.0,1.0,"MWR6+3VH, Nairobi"
+Embakasi,Wex Media Ltd,-1.2947142,36.89878629999999,mall,4.2,15.0,"Oyster Village, Office Block, 1st, Nairobi"
+Embakasi,Bridal Reflection,-1.2927687,36.9028777,mall,4.2,5.0,"75563-00200, Nairobi Kapiti Road, Nairobi City"
+Embakasi,Co-op Kwa Jirani Vicons Kenya Limited,-1.3056,36.9147,mall,,,"14 Mubiru Road, Nairobi"
